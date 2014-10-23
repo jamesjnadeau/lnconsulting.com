@@ -3,10 +3,11 @@ Title: Contact
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
+# Contact Us
 
 <div>
 	<div itemscope itemtype="http://schema.org/HomeAndConstructionBusiness">
-		<h1 itemprop="name">L.N. Consulting INC.</h1>
+		<h1 style="display:none;" itemprop="name">L.N. Consulting INC.</h1>
 		<div class="content well">
 			<p>
 				<a href="tel:8506484200" itemprop="telephone" >850-648-4200</a>
