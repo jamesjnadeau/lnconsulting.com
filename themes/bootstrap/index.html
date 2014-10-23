@@ -64,21 +64,15 @@
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li><a href="/about/">About</a></li>
-						<li><a href="/services/">Services</a></li>
-						<li><a href="/portfolio/">Services</a></li>
-						
-						{#
-							{% for page in pages %}
-							<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-							{% endfor %}
-						#}
-						
+						<li><a href="/services">Services</a></li>
+						<li><a href="/portfolio">Projects</a></li>
+						<li><a href="/contact">Contact</a></li>
 					</ul>
 				</div><!--/.nav-collapse -->
 			</div>
 		</div>
 		
-		<div class="container animated fadeInRight" id="container" >
+		<div class="container animated fadeInDown" id="container" >
 			<div class="">
 				{{ content }}
 				{% if meta.viewscontent %}
@@ -113,8 +107,8 @@
 				development: true,
 				onStart: function(url, $container)
 				{
-					var temp = $('.container.animated.fadeInRight');
-					temp.removeClass('fadeInRight').addClass('fadeOutLeft');
+					var temp = $('.container.animated.fadeInDown');
+					temp.removeClass('fadeInDown').addClass('fadeOutDownBig');
 					
 					// Scroll user to the top
 					$body.animate({ 'scrollTop': 0 });
