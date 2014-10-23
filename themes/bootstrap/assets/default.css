@@ -32,11 +32,15 @@ img.img-responsive.img-rounded
 	margin: 0px auto 0px auto;
 }
 
-h3.list-group-item
+h3.list-group-item,
+.list-group-item h4,
+a.list-group-item
 {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	background-color: #E6E6E6;
+	font-family: 'Quando', serif;
+	/* background-color: #E6E6E6; */
 }
+
+
 
 .navbar .active
 {
