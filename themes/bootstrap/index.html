@@ -38,6 +38,14 @@
 	<![endif]-->
   </head>
   <body>
+	<!-- Loading spinner -->
+	<div id="loading" class="spinner" style="display: none;" >
+		<div class="rect1"></div>
+		<div class="rect2"></div>
+		<div class="rect3"></div>
+		<div class="rect4"></div>
+		<div class="rect5"></div>
+	</div>
 	<div id="wrap">
 		<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 			<div class="container">
@@ -60,7 +68,7 @@
 				</div><!--/.nav-collapse -->
 			</div>
 		</div>
-		
+
 		<div class="container animated {{page_animation_in}}" id="container" >
 			<div class="">
 				{{ content }}
@@ -70,9 +78,8 @@
 				{# <pre>{{ dump() }}</pre> #}
 			</div>
 		</div><!-- /.container -->
-	</div>
-	
-	
+	</div><!-- /.wrap --> 
+
 	<!-- JS --> 
 	<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
@@ -110,35 +117,43 @@
 		{
 			'use strict';
 			var $body = $('html, body'),
-			$content = $('#wrap').smoothState(
-			{
-				// Runs when a link has been activated
-				development: true,
-				onStart: function(url, $container)
+				$loading = $('#loading'),
+				$content = $('#wrap').smoothState(
 				{
-					var temp = $('.container.animated.{{page_animation_in}}');
-					temp.removeClass('{{page_animation_in}}').addClass('{{page_animation_out}}');
-					
-					// Scroll user to the top
-					$body.animate({ 'scrollTop': 0 });
-				},
-				onProgress : function (url, $container) 
-				{
-					$body.css('cursor', 'wait');
-					$body.find('a').css('cursor', 'wait');
-					$content.addClass('csspinner helicopter');
-				},
-				onEnd : function (url, $container, $content) 
-				{
-					$body.css('cursor', 'auto');
-					$body.find('a').css('cursor', 'auto');
-					$content.removeClass('csspinner helicopter');
-					$container.html($content);
-					ga_track_page();
-				},
-				pageCacheSize: 0,
-				prefetch: true
-			}).data('smoothState');
+					// Runs when a link has been activated
+					development: true,
+					onStart: function(url, $container)
+					{
+						var temp = $('.container.animated.{{page_animation_in}}');
+						temp.removeClass('{{page_animation_in}}').addClass('{{page_animation_out}}');
+
+						// Scroll user to the top
+						$body.animate({ 'scrollTop': 0 });
+					},
+					onProgress : function (url, $container) 
+					{
+						console.log('onProgress');
+						console.log($container);
+						$body.css('cursor', 'wait');
+						$body.find('a').css('cursor', 'wait');
+						$container.hide();
+						$loading.show();
+					},
+					onEnd : function (url, $container, $content) 
+					{
+						console.log('onEnd');
+						console.log($loading);
+						$loading.hide();
+						//$content.show();
+						$body.css('cursor', 'auto');
+						$body.find('a').css('cursor', 'auto');
+						$content.removeClass('csspinner helicopter');
+						$container.html($content);
+						ga_track_page();
+					},
+					pageCacheSize: 0,
+					prefetch: false
+				}).data('smoothState');
 		});
 		
 		
