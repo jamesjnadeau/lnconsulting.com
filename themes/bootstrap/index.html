@@ -62,7 +62,7 @@
 			</div>
 		</div>
 		
-		<div class="container animated fadeInDown" id="container" >
+		<div class="container animated {{page_animation_in}}" id="container" >
 			<div class="">
 				{{ content }}
 				{% if meta.viewscontent %}
@@ -103,8 +103,8 @@
 				development: true,
 				onStart: function(url, $container)
 				{
-					var temp = $('.container.animated.fadeInDown');
-					temp.removeClass('fadeInDown').addClass('fadeOutDownBig');
+					var temp = $('.container.animated.{{page_animation_in}}');
+					temp.removeClass('{{page_animation_in}}').addClass('{{page_animation_out}}');
 					
 					// Scroll user to the top
 					$body.animate({ 'scrollTop': 0 });
