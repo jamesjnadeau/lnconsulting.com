@@ -8,20 +8,20 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<ul class="list-group content">
-		<a class="list-group-item" href="javascript:alert('need content');" >Renewable Energy</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Historic</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Geothermal</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Higher Education</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Lower Education</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Institutional</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Health CAre</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Labratory</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Residential</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >LEED</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Industrial</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Commercial</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Mixed Use</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Senior Living</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Plant Systems</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Renewable Energy</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Historic</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Geothermal</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Higher Education</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Lower Education</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Institutional</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Health CAre</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Labratory</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Residential</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >LEED</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Industrial</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Commercial</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Mixed Use</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Senior Living</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Plant Systems</a>
 	</ul>
 </div>

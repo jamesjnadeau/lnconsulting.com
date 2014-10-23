@@ -8,10 +8,10 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<ul class="list-group content">
-		<a class="list-group-item" href="javascript:alert('need content');" >Mechanical</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Plumbing</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Electrical</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Fire Protection</a>
-		<a class="list-group-item" href="javascript:alert('need content');" >Energy</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Mechanical</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Plumbing</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Electrical</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Fire Protection</a>
+		<a class="list-group-item" href="javascript:alert('Coming Soon!');" >Energy</a>
 	</ul>
 </div>
