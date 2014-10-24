@@ -17,7 +17,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<div class="row front">
-		<div class="col-sm-6 col-md-4">
+		<div class="col-md-4">
 			<a href="javascript:alert('Coming Soon!');" >
 				<div class="thumbnail">
 					<img src="/files/pipes.jpg" >
@@ -28,24 +28,24 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				</div>
 			</a>
 		</div>
-		<div class="col-sm-6 col-md-4">
+		<div class="col-md-4">
 			<a href="javascript:alert('Coming Soon!');" >
 				<div class="thumbnail">
 					<img src="/files/renewable.jpg" >
 					<div class="caption">
 						<h3>Renewable</h3>
-						<p>Knowing how to best makes use of the environment is key part of the exprience we bring.</p>
+						<p>Knowing how to best make use of the environment is a key part of the exprience we bring.</p>
 					</div>
 				</div>
 			</a>
 		</div>
-		<div class="col-sm-6 col-md-4">
+		<div class="col-md-4">
 			<a href="javascript:alert('Coming Soon!');" >
 				<div class="thumbnail">
 					<img src="/files/uvm.jpg" >
 					<div class="caption">
 						<h3>Education</h3>
-						<p>We've helped countless schools and universities design for the future.</p>
+						<p>We've helped countless schools and universities all over the north east design for the future.</p>
 					</div>
 				</div>
 			</a>
@@ -55,7 +55,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<div class="jumbotron">
-		<a href="/contact" class="btn btn-success btn-lg pull-right" style="margin: 6px;">Get In Touch</a>
+		<a href="/contact" class="btn btn-success btn-lg pull-right" style="margin: 6px;">Get In Touch Today</a>
 		<h2>We can help! Let us know you need it.</h2>
 	</div>
 	
