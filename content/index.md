@@ -23,7 +23,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					<img src="/files/pipes.jpg" >
 					<div class="caption">
 						<h3>Commercial</h3>
-						<p>Bacon ipsum dolor amet beef ribs andouille tenderloin salami cow shoulder. Salami meatball t-bone drumstick chicken turkey strip steak kevin ham hock ribeye shoulder pork hamburger biltong kielbasa.</p>
+						<p>Let our designs help your business cut costs and reduce waste.</p>
 					</div>
 				</div>
 			</a>
@@ -34,7 +34,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					<img src="/files/renewable.jpg" >
 					<div class="caption">
 						<h3>Renewable</h3>
-						<p>Beef ribs filet mignon ham, kielbasa salami cow short ribs flank pig capicola chuck spare ribs. Sirloin jowl pork loin ribeye shoulder short loin corned beef frankfurter.</p>
+						<p>Knowing how to best makes use of the environment is key part of the exprience we bring.</p>
 					</div>
 				</div>
 			</a>
@@ -45,10 +45,18 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					<img src="/files/uvm.jpg" >
 					<div class="caption">
 						<h3>Education</h3>
-						<p>Chuck shankle beef ribs biltong pork loin spare ribs, hamburger ham hock cow flank pastrami landjaeger. Corned beef ground round meatball pork loin t-bone shoulder.</p>
+						<p>We've helped countless schools and universities design for the future.</p>
 					</div>
 				</div>
 			</a>
 		</div>
 	</div>
+</div>
+
+<div>
+	<div class="jumbotron">
+		<a href="/contact" class="btn btn-success btn-lg pull-right" style="margin: 6px;">Get In Touch</a>
+		<h2>We can help! Let us know you need it.</h2>
+	</div>
+	
 </div>

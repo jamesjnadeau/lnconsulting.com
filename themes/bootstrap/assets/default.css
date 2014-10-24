@@ -73,7 +73,7 @@ a.list-group-item
 
 .front .thumbnail,
 .front a{
-	min-height: 420px;
+	/*min-height: 420px;*/
 	text-decoration: none;
 	color: inherit;
 }
