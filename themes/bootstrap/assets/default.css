@@ -18,7 +18,7 @@ body {
 
 h1
 {
-	border-bottom: 2px solid #4A203B;
+	border-bottom: 2px solid #336600;
 	padding-bottom: 5px;
 }
 
@@ -49,7 +49,15 @@ a.list-group-item
 
 .navbar, .dropdown-menu
 {
-	background-color: #4A203B;
+	background-color: #336600;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { 
+	color: #660033;
 }
 
 .dropdown-menu li a,
