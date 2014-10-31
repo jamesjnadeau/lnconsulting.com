@@ -55,8 +55,14 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<div class="jumbotron">
-		<a href="/contact" class="btn btn-success btn-lg pull-right" style="margin: 6px;">Get In Touch Today</a>
-		<h2>We can help! Let us know you need it.</h2>
+		<div class="row" >
+			<div class="col-md-8">
+				<h2>We can help! Let us know you need it.</h2>
+			</div>
+			<div class="col-md-4">
+				<a href="/contact" class="btn btn-success btn-lg pull-right" style="margin: 6px;">Get In Touch Today</a>
+			</div>
+		</div>
 	</div>
 	
 </div>
