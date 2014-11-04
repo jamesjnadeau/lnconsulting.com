@@ -1,5 +1,5 @@
 /*
-Title: Services
+Title: Renewable Energy
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
@@ -10,11 +10,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<ul class="list-group">
-				<a class="list-group-item" href="/services/mechanical" >Mechanical</a>
-				<a class="list-group-item" href="/services/plumbing" >Plumbing</a>
-				<a class="list-group-item" href="/services/electrical" >Electrical</a>
-				<a class="list-group-item" href="/services/fire-protection" >Fire Protection</a>
-				<a class="list-group-item" href="/services/energy" >Energy</a>
+				<a class="list-group-item" href="/portfolio/renewable-energy/360-state-street" >
+					360 State Street, New Haven, CT 
+					<br/> 
+					<small>LEED platinum</small>
+				</a>
 			</ul>
 		</div>
 		<div class="col-md-6" >
