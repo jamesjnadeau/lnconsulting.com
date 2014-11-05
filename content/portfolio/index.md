@@ -14,17 +14,17 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<a class="list-group-item" href="/portfolio/historic/" >Historic</a>
 				<a class="list-group-item" href="/portfolio/geothermal/" >Geothermal</a>
 				<a class="list-group-item" href="/portfolio/higher-education/" >Higher Education</a>
-				<a class="list-group-item" href="/portfolio//" >Lower Education</a>
-				<a class="list-group-item" href="/portfolio//" >Institutional</a>
-				<a class="list-group-item" href="/portfolio//" >Health CAre</a>
-				<a class="list-group-item" href="/portfolio//" >Labratory</a>
-				<a class="list-group-item" href="/portfolio//" >Residential</a>
-				<a class="list-group-item" href="/portfolio//" >LEED</a>
-				<a class="list-group-item" href="/portfolio//" >Industrial</a>
-				<a class="list-group-item" href="/portfolio//" >Commercial</a>
-				<a class="list-group-item" href="/portfolio//" >Mixed Use</a>
-				<a class="list-group-item" href="/portfolio//" >Senior Living</a>
-				<a class="list-group-item" href="/portfolio//" >Plant Systems</a>
+				<a class="list-group-item" href="/portfolio/lower-education/" >Lower Education</a>
+				<a class="list-group-item" href="/portfolio/institutional/" >Institutional</a>
+				<a class="list-group-item" href="/portfolio/health-care/" >Health CAre</a>
+				<a class="list-group-item" href="/portfolio/laboratory/" >Labratory</a>
+				<a class="list-group-item" href="/portfolio/residential/" >Residential</a>
+				<a class="list-group-item" href="/portfolio/leed/" >LEED</a>
+				<a class="list-group-item" href="/portfolio/industrial/" >Industrial</a>
+				<a class="list-group-item" href="/portfolio/commercial/" >Commercial</a>
+				<a class="list-group-item" href="/portfolio/mixed-use/" >Mixed Use</a>
+				<a class="list-group-item" href="/portfolio/senior-living/" >Senior Living</a>
+				<a class="list-group-item" href="/portfolio/plant-systems/plant-systems" >Plant Systems</a>
 			</ul>
 		</div>
 		<div class="col-md-6" >
