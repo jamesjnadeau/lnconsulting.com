@@ -25,7 +25,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</div>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="http://s3.amazonaws.com/lnconsult/large/OctagonNorth_sm_thumb.jpg?1288019399" >
+			<img class="img-responsive img-rounded" src="/files/octogon_apartments.jpg" >
 		</div>
 	</div>
 </div>

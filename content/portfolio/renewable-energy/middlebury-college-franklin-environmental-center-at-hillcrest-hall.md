@@ -25,7 +25,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</div>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="http://s3.amazonaws.com/lnconsult/large/DSC_0147.JPG?1291245993" >
+			<img class="img-responsive img-rounded" src="/files/middlebury_franklin.jpg" >
 		</div>
 	</div>
 </div>

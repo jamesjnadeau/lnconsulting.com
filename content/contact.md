@@ -10,7 +10,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<h1 style="display:none;" itemprop="name">L.N. Consulting INC.</h1>
 		<div class="content well">
 			<p>
-				<a href="tel:8506484200" itemprop="telephone" >850-648-4200</a>
+				<a href="tel:8026551753" itemprop="telephone" >802 655 1753</a>
 				<a href="mailto:info@lnconsulting.com" itemprop="email" class="pull-right">info@lnconsulting.com</a>
 			</p>
 			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">

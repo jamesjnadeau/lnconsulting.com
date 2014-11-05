@@ -9,14 +9,14 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 <div>
 	<div class="jumbotron">
 		<div class="row" >
-			<div class="col-md-4" >
-			<img src="/files/LNCLOGO.jpg" style="max-height: 150px;" >
-			</div>
-			<div class="col-md-8" >
+			<div class="col-md-9" >
 				<p>
 					We are a service oriented mechanical, electrical, and energy <u>Engineering Design Firm</u>. 
 					With loads of experience integrating <u>Geothermal</u> and <u>Renewable Resources</u>, let us help you meet your energy needs.
 				</p>
+			</div>
+			<div class="col-md-3" >
+				<img src="/files/LNCLOGO.jpg" style="max-height: 150px; display: block; margin: auto;" class="sm-hide">
 			</div>
 		</div>
 		
@@ -26,34 +26,34 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 <div>
 	<div class="row front">
 		<div class="col-md-4">
-			<a href="javascript:alert('Coming Soon!');" >
+			<a href="/jay-peak" >
 				<div class="thumbnail">
-					<img src="/files/pipes.jpg" >
+					<img src="/files/hoteljay1.jpg" >
 					<div class="caption">
-						<h3>Commercial</h3>
-						<p>Let our designs help your business cut costs and reduce waste.</p>
+						<h3>Jay Peak Resort</h3>
+						<p>From rinks to water parks, we know how to have fun. See how we helped make it happen.</p>
 					</div>
 				</div>
 			</a>
 		</div>
 		<div class="col-md-4">
-			<a href="javascript:alert('Coming Soon!');" >
+			<a href="/st-mikes" >
 				<div class="thumbnail">
-					<img src="/files/renewable.jpg" >
+					<img src="/files/st-mikes.jpg" >
+					<div class="caption">
+						<h3>St. Michael’s College</h3>
+						<p>Educational buildings that help keep costs low and everyone comfortable.</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="/renewable" >
+				<div class="thumbnail">
+					<img src="/files/teal-farm.jpg" >
 					<div class="caption">
 						<h3>Renewable</h3>
 						<p>Knowing how to best make use of the environment is a key part of the exprience we bring.</p>
-					</div>
-				</div>
-			</a>
-		</div>
-		<div class="col-md-4">
-			<a href="javascript:alert('Coming Soon!');" >
-				<div class="thumbnail">
-					<img src="/files/uvm.jpg" >
-					<div class="caption">
-						<h3>Education</h3>
-						<p>We've helped countless schools and universities all over the north east design for the future.</p>
 					</div>
 				</div>
 			</a>
