@@ -8,10 +8,18 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<div class="jumbotron">
-		<p>
-			We are a service oriented mechanical, electrical, and energy <u>Engineering Design Firm</u>. 
-			With loads of experience integrating <u>Geothermal</u> and <u>Renewable Resources</u>, let us help you meet your energy needs.
-		</p>
+		<div class="row" >
+			<div class="col-md-4" >
+			<img src="/files/LNCLOGO.jpg" style="max-height: 150px;" >
+			</div>
+			<div class="col-md-8" >
+				<p>
+					We are a service oriented mechanical, electrical, and energy <u>Engineering Design Firm</u>. 
+					With loads of experience integrating <u>Geothermal</u> and <u>Renewable Resources</u>, let us help you meet your energy needs.
+				</p>
+			</div>
+		</div>
+		
 	</div>
 </div>
 
@@ -60,7 +68,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h2>We can help! Let us know you need it.</h2>
 			</div>
 			<div class="col-md-4">
-				<a href="/contact" class="btn btn-success btn-lg pull-right" style="margin: 6px;">Get In Touch Today</a>
+				<a href="/contact" class="btn btn-default btn-lg pull-right" style="margin: 6px; background-color: #51534a; color: white;">Get In Touch Today</a>
 			</div>
 		</div>
 	</div>

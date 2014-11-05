@@ -1,7 +1,7 @@
 
 .brand.navbar-brand
 {
-	font-family: 'Changa One', cursive;
+	font-family: 'Montserrat', sans-serif;
 	color: #FFF;
 }
 
@@ -18,8 +18,9 @@ body {
 
 h1
 {
-	border-bottom: 2px solid #336600;
+	border-bottom: 2px solid #51534a;
 	padding-bottom: 5px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 img.content-secondary
@@ -49,7 +50,8 @@ a.list-group-item
 
 .navbar, .dropdown-menu
 {
-	background-color: #336600;
+	background-color: #84bd00;
+	border-color: #51534a;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -57,7 +59,7 @@ a.list-group-item
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { 
-	color: #660033;
+	color: #51534a;
 }
 
 .dropdown-menu li a,

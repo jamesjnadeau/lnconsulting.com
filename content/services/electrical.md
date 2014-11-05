@@ -10,8 +10,31 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<div class="col-md-6" >
 			<div class="well" >
 				<p>
-					We develop the design of electrical systems for diverse projects. Many systems include creative energy efficiency and renewable energy projects along with practical implementation of system circuit master planning to allow maximum use of renewable energy sources for your project. We can provide the complete electrical systems design for any project including high voltage distribution networks for utility companies. We posses the knowledge and tools to effectively design power distribution networks big and small. Our renewable power generation experience spans from large photovoltaic power generation systems to implementation of fuel cell power generation into existing building electrical systems to maximize incentives for power usage. We provide complete building lighting design methods that meet a clients needs while minimizing energy usage and maximizing energy incentives from utilities, grants, and energy incentive organizations. We utilize quantitative lighting design modeling to understand natural lighting and building photometrics during the design phase to educate clients and design teams with the advantages of fixture selection, control and light balancing. We also have experience with the design of; telecommunication, fire alarm, carbon monoxide monitoring, nurse call, and specialized control systems.
+					Developing the design of electrical systems for diverse projects is something we deal with every day. 
 				</p>
+				<p>
+					Many systems include creative energy efficiency and renewable energy projects along with practical implementation of system circuit master planning to allow maximum use of renewable energy sources for your project. 
+				</p>
+				<p>
+					We can provide the complete electrical systems design for any project including high voltage distribution networks for utility companies. We posses the knowledge and tools to effectively design power distribution networks big and small. 
+				</p>
+				<p>Our renewable power generation experience spans from large photovoltaic power generation systems to implementation of fuel cell power generation into existing building electrical systems to maximize incentives for power usage. 
+					We provide complete building lighting design methods that meet a clients needs while minimizing energy usage and maximizing energy incentives from utilities, grants, and energy incentive organizations. 
+					
+				</p>
+				<p>
+					Utilizing quantitative lighting design modeling to understand natural lighting, building photometrics during the design phase to educate clients, and design teams with the advantages of fixture selection, control and light balancing. 
+				</p>
+				<p>
+					We also have experience with the design of:
+				</p>
+				<ul>
+					<li>telecommunication</li>
+					<li>fire alarm</li>
+					<li>carbon monoxide monitoring</li>
+					<li>nurse call</li>
+					<li>specialized control systems</li>
+				</ul>
 			</div>
 		</div>
 		<div class="col-md-6" >
