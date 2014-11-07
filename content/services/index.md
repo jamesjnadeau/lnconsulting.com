@@ -7,18 +7,26 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 # Services
 
 <div>
+	<div class="well">
+		<h4 class="">
+			Big or Small project? <small>We can come through for you.</small>
+		</h4>
+	</div>
 	<div class="row">
 		<div class="col-md-6" >
+			
+
 			<ul class="list-group">
-				<a class="list-group-item" href="/services/mechanical" >Mechanical</a>
-				<a class="list-group-item" href="/services/plumbing" >Plumbing</a>
-				<a class="list-group-item" href="/services/electrical" >Electrical</a>
-				<a class="list-group-item" href="/services/fire-protection" >Fire Protection</a>
-				<a class="list-group-item" href="/services/energy" >Energy</a>
+				<a class="list-group-item" href="/services/mechanical" data-img-url="/files/Building_services_coordinated_drawing.JPG" >Mechanical</a>
+				<a class="list-group-item" href="/services/plumbing" data-img-url="/files/MEP_Room_Virginia_Tech.JPG" >Plumbing</a>
+				<a class="list-group-item" href="/services/electrical" data-img-url="/files/electrical.jpg" >Electrical</a>
+				<a class="list-group-item" href="/services/fire-protection" data-img-url="/files/data_center_fire_suppression.jpg" >Fire Protection</a>
+				<a class="list-group-item" href="/services/energy" data-img-url="/files/energy.jpg" >Energy</a>
 			</ul>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="/files/HVAC_Ventilation_Exhaust.jpg" >
+			<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/eng1.jpg" >
 		</div>
 	</div>
 </div>
+

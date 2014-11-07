@@ -23,7 +23,7 @@ $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_set
 */
 header("Cache-Control: max-age=7200");
 
-$config['site_title'] = 'LN Consulting';
+$config['site_title'] = 'LN CONSULTING';
 //$config['theme'] = 'jqm_1.3.2';
 $config['theme'] = 'bootstrap';
 $config['twig_config'] = array(			// Twig settings

@@ -10,7 +10,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<ul class="list-group">
-							<a class="list-group-item" href="/portfolio/commercial/360-state-street" >
+							<a class="list-group-item" href="/portfolio/360-state-street" >
 				<h5 class="list-group-item-heading">360 State Street, 	    New Haven, CT</h5>
 				<p class="list-group-item-text small">
 						    LEED platinum
@@ -34,7 +34,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    LEED gold
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/commercial/888-main-street-roosevelt-island-ny-fuel-cell" >
+			<a class="list-group-item" href="/portfolio/888-main-street-roosevelt-island-ny-fuel-cell" >
 				<h5 class="list-group-item-heading">Octagon Apartments Fuel Cell, 	    888 Main Street, Roosevelt, Island, NY, NY</h5>
 				<p class="list-group-item-text small">
 						    
