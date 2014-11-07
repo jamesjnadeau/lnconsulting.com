@@ -14,6 +14,12 @@ body {
 	background-image: url('noisy_grid.png');
 	background-repeat: repeat;
 	background-color: transparent ! important;
+	color: #51534a;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+p {
+	color: #51534a;
 }
 
 h1
@@ -41,7 +47,9 @@ a.list-group-item
 	/* background-color: #E6E6E6; */
 }
 
-
+.well {
+	background-color: #fff
+}
 
 .navbar .active
 {

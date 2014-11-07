@@ -24,7 +24,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<a class="list-group-item" href="/portfolio/commercial/" >Commercial</a>
 				<a class="list-group-item" href="/portfolio/mixed-use/" >Mixed Use</a>
 				<a class="list-group-item" href="/portfolio/senior-living/" >Senior Living</a>
-				<a class="list-group-item" href="/portfolio/plant-systems/plant-systems" >Plant Systems</a>
+				<a class="list-group-item" href="/portfolio/plant-systems" >Plant Systems</a>
 			</ul>
 		</div>
 		<div class="col-md-6" >
@@ -41,7 +41,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					already done that for another client.
 				</p>
 			</div>
-			<div class="well">
+			<div class="">
 				<img class="img-responsive img-rounded"  src="/files/home.jpg" >
 			</div>
 			

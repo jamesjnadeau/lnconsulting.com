@@ -52,7 +52,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<div class="thumbnail">
 					<img src="/files/teal-farm.jpg" >
 					<div class="caption">
-						<h3>Renewable</h3>
+						<h3>Solar and Geothermal</h3>
 						<p>Knowing how to best make use of the environment is a key part of the exprience we bring.</p>
 					</div>
 				</div>

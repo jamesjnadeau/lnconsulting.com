@@ -21,6 +21,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<img class="img-responsive img-rounded" src="/files/jay-peak-pumphouse.jpg" >
 		</div>
 	</div>
+	<hr>
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well">

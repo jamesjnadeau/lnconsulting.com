@@ -3,7 +3,7 @@ Title: Green Mountain College Biomass Project
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
-# Plant Systems
+# Renewable Energy
 
 <div>
 	<div class="row">
@@ -25,7 +25,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</div>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="" >
+			<img class="img-responsive img-rounded" src="/files/gmc_biomass.jpg" >
 		</div>
 	</div>
 </div>
