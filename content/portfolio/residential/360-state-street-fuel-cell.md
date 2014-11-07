@@ -3,7 +3,7 @@ Title: 360 State Street Fuel Cell
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
-# Renewable Energy
+# Residential
 
 <div>
 	<div class="row">

@@ -10,7 +10,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<ul class="list-group">
-							<a class="list-group-item" href="/portfolio/360-state-street" >
+							<a class="list-group-item" href="/portfolio/plant-systems/360-state-street-fuel-cell" >
 				<h5 class="list-group-item-heading">360 State Street Fuel Cell, 	    New Haven, CT</h5>
 				<p class="list-group-item-text small">
 						    LEED platinum
@@ -34,7 +34,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/green-mountain-college-biomass-project" data-img-url="/files/GMC_low_grades_Biomass_plant.jpg" >
+			<a class="list-group-item" href="/portfolio/plant-systems/green-mountain-college-biomass-project" >
 				<h5 class="list-group-item-heading">Green Mountain College Biomass Project, 	    Poultney, VT</h5>
 				<p class="list-group-item-text small">
 						    
@@ -46,8 +46,8 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/maxwell-farm-cow-power-cogeneration-project-coventry-vt" data-img-url="/files/maxwell-farm.jpg" >
-				<h5 class="list-group-item-heading">Maxwell Farm "Cow Power" Cogeneration Project, 	    Coventry, VT</h5>
+			<a class="list-group-item" href="/portfolio/plant-systems/maxwell-farm-%E2%80%9Ccow-power%E2%80%9D-cogeneration-project-coventry-vt" >
+				<h5 class="list-group-item-heading">Maxwell Farm ?Cow Power? Cogeneration Project, 	    Coventry, VT</h5>
 				<p class="list-group-item-text small">
 						    
 				</p>
@@ -157,22 +157,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 			</ul>
 		</div>
-		<div class="col-md-6" >
-			<img id="thumbnail_img" class="img-responsive img-rounded" src="http://placehold.it/640x400" >
-		</div>
 	</div>
 </div>
-<script>
-	$(document).ready(function() {
-		$thumbnail = $('#thumbnail_img');
-		$('a.list-group-item').hover(function() {
-			$this = $(this);
-			var data_url = $this.attr('data-img-url');
-			if(data_url) {
-				console.log(data_url);
-				$thumbnail.attr('src', data_url);
-			}
-		});
-		
-	});
-</script>
+			

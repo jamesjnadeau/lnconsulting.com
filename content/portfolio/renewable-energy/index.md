@@ -10,8 +10,14 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<ul class="list-group">
-				<a class="list-group-item" href="/portfolio/360-state-street" data-img-url="/files/360-state-st-new-haven-ct.jpg" >
+				<a class="list-group-item" href="/portfolio/renewable-energy/360-state-street" data-img-url="/files/360-state-st-new-haven-ct.jpg" >
 					<h5 class="list-group-item-heading">360 State Street, 	    New Haven, CT</h5>
+					<p class="list-group-item-text small">
+								LEED platinum
+					</p>
+				</a>
+				<a class="list-group-item" href="/portfolio/renewable-energy/360-state-street-fuel-cell" data-img-url="/files/360-state-st-new-haven-ct.jpg" >
+					<h5 class="list-group-item-heading">360 State Street Fuel Cell, 	    New Haven, CT</h5>
 					<p class="list-group-item-text small">
 								LEED platinum
 					</p>
@@ -34,7 +40,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 					</p>
 				</a>
-				<a class="list-group-item" href="/portfolio/green-mountain-college-biomass-project" data-img-url="/files/GMC_low_grades_Biomass_plant.jpg" >
+				<a class="list-group-item" href="/portfolio/renewable-energy/green-mountain-college-biomass-project" data-img-url="/files/GMC_low_grades_Biomass_plant.jpg" >
 					<h5 class="list-group-item-heading">Green Mountain College Biomass Project, 	    Poultney, VT</h5>
 					<p class="list-group-item-text small">
 
@@ -46,7 +52,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 					</p>
 				</a>
-				<a class="list-group-item" href="/portfolio/maxwell-farm-cow-power-cogeneration-project-coventry-vt" data-img-url="/files/maxwell-farm.jpg" >
+				<a class="list-group-item" href="/portfolio/renewable-energy/maxwell-farm-cow-power-cogeneration-project-coventry-vt" data-img-url="/files/maxwell-farm.jpg" >
 					<h5 class="list-group-item-heading">Maxwell Farm "Cow Power" Cogeneration Project, 	    Coventry, VT</h5>
 					<p class="list-group-item-text small">
 
@@ -64,7 +70,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 					</p>
 				</a>
-				<a class="list-group-item" href="/portfolio/middlebury-college-franklin-environmental-center-at-hillcrest-hall" data-img-url="/files/middlebury_franklin.jpg" >
+				<a class="list-group-item" href="/portfolio/renewable-energy/middlebury-college-franklin-environmental-center-at-hillcrest-hall" data-img-url="/files/middlebury_franklin.jpg" >
 					<h5 class="list-group-item-heading">Middlebury College Franklin Environmental Center at Hillcrest Hall, 	    Middlebury, VT</h5>
 					<p class="list-group-item-text small">
 								LEED platinum
@@ -76,7 +82,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 								LEED gold
 					</p>
 				</a>
-				<a class="list-group-item" href="/portfolio/888-main-street-roosevelt-island-ny-fuel-cell" data-img-url="/files/octogon_apartments.jpg" >
+				<a class="list-group-item" href="/portfolio/renewable-energy/888-main-street-roosevelt-island-ny-fuel-cell" data-img-url="/files/octogon_apartments.jpg" >
 					<h5 class="list-group-item-heading">Octagon Apartments Fuel Cell, 	    888 Main Street, Roosevelt, Island, NY, NY</h5>
 					<p class="list-group-item-text small">
 

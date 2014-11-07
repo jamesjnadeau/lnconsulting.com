@@ -7,7 +7,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<div class="row">
-		<div class="col-md-12" >
+		<div class="col-md-6" >
 			<div class="well" >
 				<h3>Central Vermont Medical Center HVAC Infrastructure Upgrade Project</h3>
 				<p>

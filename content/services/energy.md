@@ -25,7 +25,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</div>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="/files/energy.jpg" >
+			<img class="img-responsive img-rounded" src="http://placehold.it/640x400" >
 		</div>
 	</div>
 </div>

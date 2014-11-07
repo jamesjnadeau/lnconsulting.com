@@ -10,7 +10,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<ul class="list-group">
-			<a class="list-group-item" href="/portfolio/historic/champlain-college-aiken-hall-renovation-project" data-img-url="/files/champlain-aiken-hall.jpg" >
+							<a class="list-group-item" href="/portfolio/historic/champlain-college-aiken-hall-renovation-project" >
 				<h5 class="list-group-item-heading">Champlain College Aiken Hall Renovation Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED gold
@@ -22,8 +22,8 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    LEED platinum
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/middlebury-college-franklin-environmental-center-at-hillcrest-hall" data-img-url="/files/middlebury_franklin.jpg" >
-				<h5 class="list-group-item-heading">Middlebury College Franklin Environmental Center at Hillcrest Hall, Middlebury, VT</h5>
+			<a class="list-group-item" href="/portfolio/historic/middlebury-college-franklin-environmental-center-at-hillcrest-hall" >
+				<h5 class="list-group-item-heading">Middlebury College Franklin Environmental Center at Hillcrest Hall, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED platinum
 				</p>
@@ -67,22 +67,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 			</ul>
 		</div>
-		<div class="col-md-6" >
-			<img id="thumbnail_img" class="img-responsive img-rounded" src="http://placehold.it/640x400" >
-		</div>
 	</div>
 </div>
-<script>
-	$(document).ready(function() {
-		$thumbnail = $('#thumbnail_img');
-		$('a.list-group-item').hover(function() {
-			$this = $(this);
-			var data_url = $this.attr('data-img-url');
-			if(data_url) {
-				console.log(data_url);
-				$thumbnail.attr('src', data_url);
-			}
-		});
-		
-	});
-</script>
+			
