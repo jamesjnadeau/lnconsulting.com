@@ -70,7 +70,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 								LEED platinum
 					</p>
 				</a>
-				<a class="list-group-item" href="/portfolio/renewable-energy/nrg-systems-expansion-project" data-img-url="/files/nrg-systems.jpg" >
+				<a class="list-group-item" href="/portfolio/nrg-systems-expansion-project" data-img-url="/files/nrg-systems.jpg" >
 					<h5 class="list-group-item-heading">NRG Systems Expansion Project, 	    Hinesburg, VT</h5>
 					<p class="list-group-item-text small">
 								LEED gold
@@ -94,7 +94,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 					</p>
 				</a>
-				<a class="list-group-item" href="/portfolio/renewable-energy/teal-farm" data-img-url="/files/teal-farm.jpg" >
+				<a class="list-group-item" href="/portfolio/teal-farm" data-img-url="/files/teal-farm.jpg" >
 					<h5 class="list-group-item-heading">Teal Farm, 	    Huntington, VT</h5>
 					<p class="list-group-item-text small">
 
@@ -122,7 +122,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</ul>
 		</div>
 		<div class="col-md-6" >
-			<img id="thumbnail_img" class="img-responsive img-rounded" src="http://placehold.it/640x400" >
+			<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/nrg-systems.jpg" >
 		</div>
 	</div>
 </div>

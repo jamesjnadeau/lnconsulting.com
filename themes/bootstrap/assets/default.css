@@ -141,6 +141,17 @@ u {
 		width: 80%;
 		margin: 0px auto 10px auto;
 	}
+	
+	.img-scroller {
+		width: 455px;
+	}
+	.img-scroller.affix {
+		position: inherit;
+		top: 30px;
+	}
+	.img-scroller.affix.img {
+		position: relative;
+	}
 }
 
 @media (max-width: 600px) {

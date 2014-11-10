@@ -40,7 +40,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/historic/shelburne-farms-pv-installation-project" >
+			<a class="list-group-item" href="/portfolio/historic/shelburne-farms-pv-installation-project" data-img-url="/files/shelburne_farms.jpg" >
 				<h5 class="list-group-item-heading">Shelburne Farms PV Installation Project, 	    Shelburne, VT</h5>
 				<p class="list-group-item-text small">
 						    
@@ -52,14 +52,14 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/historic/teal-farm" >
+			<a class="list-group-item" href="/portfolio/teal-farm" data-img-url="/files/teal-farm.jpg" >
 				<h5 class="list-group-item-heading">Teal Farm, 	    Huntington, VT</h5>
 				<p class="list-group-item-text small">
 						    
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/historic/university-of-vermont-%E2%80%93-given-building-infill-project" >
-				<h5 class="list-group-item-heading">University of Vermont ? Given Building Infill Project, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">University of Vermont, Given Building Infill Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED gold
 				</p>
@@ -68,7 +68,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</ul>
 		</div>
 		<div class="col-md-6" >
-			<img id="thumbnail_img" class="img-responsive img-rounded" src="http://placehold.it/640x400" >
+			<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/shelburne_farms.jpg" >
 		</div>
 	</div>
 </div>

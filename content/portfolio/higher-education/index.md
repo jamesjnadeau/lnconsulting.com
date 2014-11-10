@@ -160,7 +160,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/higher-education/uvm-%E2%80%93-harris--millis-residence-hall-renovation" >
+			<a class="list-group-item" href="/portfolio/higher-education/uvm-%E2%80%93-harris--millis-residence-hall-renovation" data-img-url="/files/Harris-Millis-6_rs.jpg" >
 				<h5 class="list-group-item-heading">UVM Harris / Millis Residence Hall Renovation, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    
@@ -193,8 +193,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 			</ul>
 		</div>
-		<div class="col-md-6" >
-			<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/Marsh-Austin-Tupper1_rs.jpg" >
+		<div class="col-md-6"  >
+			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
+				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/Marsh-Austin-Tupper1_rs.jpg" >
+			</div>
+			
 		</div>
 	</div>
 </div>
@@ -209,6 +212,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				$thumbnail.attr('src', data_url);
 			}
 		});
-		
+		$( window ).scroll(function(event) {
+			var scrollY = window.pageYOffset;
+			$('.img-scroller.affix').css('top', scrollY+'px');
+		});
 	});
 </script>
