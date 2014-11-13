@@ -35,15 +35,17 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						</li>
 					</ul>
 				</li>
+				<!-- 
 				<a class="list-group-item" href="/about/team" >
 					<h4>Team</h4>
 					<p class="list-group-item-text"></p>
 				</a>
+				-->
 			</ul>
 		</div>
 		<div class="col-md-6" >
-			<div class="well">
-				<img class="img-responsive img-rounded" src="http://placehold.it/640x400" >
+			<div class="">
+				<img class="img-responsive img-rounded" src="/files/shelburne_farms.jpg" >
 			</div>
 		</div>
 	</div>
