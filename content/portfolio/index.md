@@ -36,10 +36,12 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					This experience spans from small renewable energy projects, to large 
 					commercial and institutional projects.
 				</p>
+				<!-- 
 				<p>
 					After XX years of pioneering in this industry, you can probably imagine we've 
 					already done that for another client.
 				</p>
+				--> 
 			</div>
 			<div class="">
 				<img class="img-responsive img-rounded"  src="/files/home.jpg" >
