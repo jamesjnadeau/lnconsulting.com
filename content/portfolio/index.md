@@ -16,7 +16,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<a class="list-group-item" href="/portfolio/higher-education/" >Higher Education</a>
 				<a class="list-group-item" href="/portfolio/lower-education/" >Lower Education</a>
 				<a class="list-group-item" href="/portfolio/institutional/" >Institutional</a>
-				<a class="list-group-item" href="/portfolio/health-care/" >Health CAre</a>
+				<a class="list-group-item" href="/portfolio/health-care/" >Health Care</a>
 				<a class="list-group-item" href="/portfolio/laboratory/" >Labratory</a>
 				<a class="list-group-item" href="/portfolio/residential/" >Residential</a>
 				<a class="list-group-item" href="/portfolio/leed/" >LEED</a>
