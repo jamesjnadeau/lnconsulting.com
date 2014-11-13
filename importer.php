@@ -4,7 +4,7 @@ require 'querypath/qp.php';
 
 $base_url = 'http://lnconsult.herokuapp.com';
 
-$sub_url = '/portfolio/plant-systems/';
+$sub_url = '/portfolio/industrial/';
 $title = 'Plant Systems';
 
 
