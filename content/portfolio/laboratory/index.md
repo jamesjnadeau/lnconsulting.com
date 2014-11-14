@@ -17,7 +17,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/laboratory/university-of-vermont-%E2%80%93-marsh-life-science-expansion" >
-				<h5 class="list-group-item-heading">University of Vermont ? Marsh Life Science Expansion, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">University of Vermont Marsh Life Science Expansion, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED silver
 				</p>
@@ -60,6 +60,12 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</a>
 
 			</ul>
+		</div>
+		<div class="col-md-6"  >
+			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
+				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/eng1.jpg" >
+			</div>
+			
 		</div>
 	</div>
 </div>

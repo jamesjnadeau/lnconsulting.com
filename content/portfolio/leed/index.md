@@ -65,13 +65,13 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/leed/university-of-vermont-%E2%80%93-given-building-infill-project" >
-				<h5 class="list-group-item-heading">University of Vermont ? Given Building Infill Project, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">University of Vermont Given Building Infill Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED gold
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/leed/university-of-vermont-%E2%80%93-marsh-life-science-expansion" >
-				<h5 class="list-group-item-heading">University of Vermont ? Marsh Life Science Expansion, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">University of Vermont Marsh Life Science Expansion, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED silver
 				</p>
@@ -83,19 +83,19 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/leed/uvm-%E2%80%93-harris--millis-residence-hall-renovation" >
-				<h5 class="list-group-item-heading">UVM ? Harris / Millis Residence Hall Renovation, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">UVM Harris / Millis Residence Hall Renovation, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/leed/uvm-%E2%80%93-marsh--austin--tupper-residence-hall-renovation" >
-				<h5 class="list-group-item-heading">UVM ? Marsh / Austin / Tupper Residence Hall Renovation, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">UVM Marsh / Austin / Tupper Residence Hall Renovation, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED silver
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/leed/uvm-%E2%80%93-wing--davis--wilks-residence-hall-renovation" >
-				<h5 class="list-group-item-heading">UVM ? Wing / Davis / Wilks Residence Hall Renovation, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">UVM Wing / Davis / Wilks Residence Hall Renovation, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED silver
 				</p>

@@ -22,8 +22,8 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/institutional/university-of-vermont-%E2%80%93-given-building-infill-project" >
-				<h5 class="list-group-item-heading">University of Vermont ? Given Building Infill Project, 	    Burlington, VT</h5>
+			<a class="list-group-item" href="/portfolio/institutional/university-of-vermont-given-building-infill-project" >
+				<h5 class="list-group-item-heading">University of Vermont Given Building Infill Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED gold
 				</p>
@@ -31,17 +31,20 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a class="list-group-item" href="/portfolio/institutional/white-river-junction-va-hospital-mental-health-renovation-project" >
 				<h5 class="list-group-item-heading">VA Hospital Mental Health Renovation Project, 	    White River Junction, VT</h5>
 				<p class="list-group-item-text small">
-						    
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/institutional/vermont-air-national-guard-renewable-energy-study" >
 				<h5 class="list-group-item-heading">Vermont Air National Guard Renewable Energy Study, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
-						    
 				</p>
 			</a>
 
 			</ul>
+		</div>
+		<div class="col-md-6"  >
+			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
+				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/Harris-Millis-6_rs.jpg" >
+			</div>
 		</div>
 	</div>
 </div>

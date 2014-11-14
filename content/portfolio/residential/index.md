@@ -29,7 +29,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/residential/champlain-college-%E2%80%93-levi-smith-dormitory-project" >
-				<h5 class="list-group-item-heading">Champlain College ? Adirondack House Dormitory Project, 	    Burlington, VT</h5>
+				<h5 class="list-group-item-heading">Champlain College Adirondack House Dormitory Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    
 				</p>
@@ -41,7 +41,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/residential/middlebury-college-%E2%80%93-carr-hall-renovation-project" >
-				<h5 class="list-group-item-heading">Middlebury College ? Carr Hall Renovation Project, 	    Middlebury, VT</h5>
+				<h5 class="list-group-item-heading">Middlebury College Carr Hall Renovation Project, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small">
 						    
 				</p>
@@ -90,6 +90,12 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</a>
 
 			</ul>
+		</div>
+		<div class="col-md-6"  >
+			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
+				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/teal-farm.jpg" >
+			</div>
+			
 		</div>
 	</div>
 </div>
