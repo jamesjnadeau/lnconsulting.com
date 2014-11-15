@@ -1,5 +1,5 @@
 /*
-Title: Middlebury College ? Freeman International Studies Center to Bicentennial Hall Steam Line Replacement
+Title: Middlebury College Freeman International Studies Center to Bicentennial Hall Steam Line Replacement
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
@@ -9,7 +9,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
-				<h3>Middlebury College ? Freeman International Studies Center to Bicentennial Hall Steam Line Replacement</h3>
+				<h3>Middlebury College Freeman International Studies Center to Bicentennial Hall Steam Line Replacement</h3>
 				<p>
    
    Replacement of the existing underground steam and condensate return system between buildings with upgrades to improve system performance and longevity.  Project included new steam manhole design.

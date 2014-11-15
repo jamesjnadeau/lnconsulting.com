@@ -1,5 +1,5 @@
 /*
-Title: University of Massachusetts UMA #07-52 Steam Line Replacements ? Flint Way, Morrill II, & Orchard Hill
+Title: University of Massachusetts UMA #07-52 Steam Line Replacements Flint Way, Morrill II, & Orchard Hill
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
@@ -9,7 +9,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
-				<h3>University of Massachusetts UMA #07-52 Steam Line Replacements ? Flint Way, Morrill II, & Orchard Hill</h3>
+				<h3>University of Massachusetts UMA #07-52 Steam Line Replacements Flint Way, Morrill II, & Orchard Hill</h3>
 				<p>
    
    Multi-phased replacement of the existing underground steam and condensate return systems supporting multiple buildings with upgrades to improve system performance and longevity.  Design provided for 2,350 linear feet of trench and 4,000 linear feet of direct buried pre-insulated and building/manhole interior steam and condensate return piping.  Piping design included connections to seven existing buildings routed through four existing and one new steam manhole structures.  Piping was of various pressures and sizes up to 125 psig and 16? diameter.

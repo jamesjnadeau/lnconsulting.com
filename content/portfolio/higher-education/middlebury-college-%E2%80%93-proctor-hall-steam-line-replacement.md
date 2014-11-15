@@ -1,5 +1,5 @@
 /*
-Title: Middlebury College ? Proctor Hall Steam Line Replacement
+Title: Middlebury College Proctor Hall Steam Line Replacement
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 

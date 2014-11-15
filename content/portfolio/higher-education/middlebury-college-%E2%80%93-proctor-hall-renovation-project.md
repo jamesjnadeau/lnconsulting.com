@@ -1,5 +1,5 @@
 /*
-Title: Middlebury College ? Proctor Hall Renovation Project
+Title: Middlebury College Proctor Hall Renovation Project
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
@@ -9,7 +9,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
-				<h3>Middlebury College ? Proctor Hall Renovation Project</h3>
+				<h3>Middlebury College Proctor Hall Renovation Project</h3>
 				<p>
    
    L.N. Consulting completed design and construction administration services for the Middlebury College Proctor Hall Renovation Project.  The Proctor Hall building consists of a multi-story, 25,000 sq. ft dining hall with bookstore and student services programs.  The project included the design of a new food service program with complete HVAC, lighting and electrical systems renovation.  The building was designed with a new high efficiency water chiller system, steam domestic water heating, energy efficient variable volume kitchen exhaust and make up air system.

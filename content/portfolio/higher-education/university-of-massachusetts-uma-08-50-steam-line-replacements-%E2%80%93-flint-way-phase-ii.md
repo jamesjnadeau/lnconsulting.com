@@ -1,5 +1,5 @@
 /*
-Title: University of Massachusetts UMA #08-50 Steam Line Replacements ? Flint Way, Phase II
+Title: University of Massachusetts UMA #08-50 Steam Line Replacements  Flint Way, Phase II
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
@@ -9,7 +9,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
-				<h3>University of Massachusetts UMA #08-50 Steam Line Replacements ? Flint Way, Phase II</h3>
+				<h3>University of Massachusetts UMA #08-50 Steam Line Replacements  Flint Way, Phase II</h3>
 				<p>
    
    Multi-phased replacement of the existing underground steam and condensate return systems supporting multiple buildings with upgrades to improve system performance and longevity.  Design provided for 1,170 linear feet of trench containing up to 10? diameter direct buried pre-insulated and building/manhole interior steam and condensate return piping.
