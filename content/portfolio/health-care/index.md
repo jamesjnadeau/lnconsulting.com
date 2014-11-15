@@ -158,8 +158,32 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</ul>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="/files/fletcher_allen.jpg" >
+			<div class="img-scroller" >
+				<img class="img-responsive img-rounded" src="/files/fletcher_allen.jpg" >
+			</div>
 		</div>
 	</div>
 </div>
-			
+<script>
+	$(document).ready(function() {
+		$thumbnail = $('#thumbnail_img');
+		console.log($thumbnail);
+		$('a.list-group-item').hover(function() {
+			$this = $(this);
+			var data_url = $this.attr('data-img-url');
+			if(data_url) {
+				console.log(data_url);
+				$thumbnail.attr('src', data_url);
+			}
+		});
+		$( window ).scroll(function(event) {
+			var scrollY = window.pageYOffset;
+			$('.img-scroller.affix').css('top', scrollY+'px');
+		});
+		$('.img-scroller').affix({
+			offset: {
+				top: 60
+			}
+		})
+	});
+</script>
