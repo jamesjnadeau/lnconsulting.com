@@ -27,7 +27,7 @@ Photo by: Sally McCay
 			</div>
 		</div>
 		<div class="col-md-6" >
-			<img class="img-responsive img-rounded" src="http://s3.amazonaws.com/lnconsult/large/LearningCntr_ShelburneFarms_sm_thumb.jpg?1288020450" >
+			<img class="img-responsive img-rounded" src="/files/shelburne_farms.jpg" >
 		</div>
 	</div>
 </div>
