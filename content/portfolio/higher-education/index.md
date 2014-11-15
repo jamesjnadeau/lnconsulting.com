@@ -194,7 +194,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</ul>
 		</div>
 		<div class="col-md-6"  >
-			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
+			<div class="img-scroller" >
 				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/Marsh-Austin-Tupper1_rs.jpg" >
 			</div>
 			
@@ -204,6 +204,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 <script>
 	$(document).ready(function() {
 		$thumbnail = $('#thumbnail_img');
+		console.log($thumbnail);
 		$('a.list-group-item').hover(function() {
 			$this = $(this);
 			var data_url = $this.attr('data-img-url');
@@ -216,5 +217,10 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			var scrollY = window.pageYOffset;
 			$('.img-scroller.affix').css('top', scrollY+'px');
 		});
+		$('.img-scroller').affix({
+			offset: {
+				top: 60
+			}
+		})
 	});
 </script>
