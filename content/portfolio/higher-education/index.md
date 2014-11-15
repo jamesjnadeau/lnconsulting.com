@@ -40,7 +40,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/higher-education/middlebury-college-biomass-project" >
+			<a class="list-group-item" href="/portfolio/higher-education/middlebury-college-biomass-project" data-img-url="/files/biomass_exterior.jpg">
 				<h5 class="list-group-item-heading">Middlebury College Biomass Project, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small">
 						    
