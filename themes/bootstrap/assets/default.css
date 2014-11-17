@@ -131,6 +131,10 @@ u {
 	.img-scroller.affix.img {
 		position: relative;
 	}
+	.col-md-12 p {
+		display: block;
+		margin: auto;
+	}
 }
 @media (min-width: 600px) 
 {

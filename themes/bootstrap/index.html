@@ -154,11 +154,26 @@
 						$body.find('a').css('cursor', 'auto');
 						$content.removeClass('csspinner helicopter');
 						$container.html($content);
+						
 						//ga_track_page();
+						
+						fix_missing_images();
 					},
 					pageCacheSize: 0,
 					prefetch: false
 				}).data('smoothState');
+				
+				//temporary fix to restyle pages with missing images
+				function fix_missing_images() {
+					//fix for pages with blank images
+					var test = $body.find('.img-responsive.img-rounded').attr('src');
+
+					if(!test) {
+						console.log(test);
+						$('div.col-md-6').removeClass('col-md-6').addClass('col-md-12');
+					}
+				}
+				fix_missing_images();
 		});
 		
 		
