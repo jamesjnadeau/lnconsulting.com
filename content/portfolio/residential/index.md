@@ -28,7 +28,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    LEED certified
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/residential/champlain-college-%E2%80%93-levi-smith-dormitory-project" >
+			<a class="list-group-item" href="/portfolio/residential/champlain-college-levi-smith-dormitory-project" >
 				<h5 class="list-group-item-heading">Champlain College Adirondack House Dormitory Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    
@@ -40,7 +40,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/residential/middlebury-college-%E2%80%93-carr-hall-renovation-project" >
+			<a class="list-group-item" href="/portfolio/residential/middlebury-college-carr-hall-renovation-project" >
 				<h5 class="list-group-item-heading">Middlebury College Carr Hall Renovation Project, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small">
 						    
@@ -70,7 +70,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    LEED silver
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/residential/uvm-%E2%80%93-wing--davis--wilks-residence-hall-renovation" >
+			<a class="list-group-item" href="/portfolio/residential/uvm-wing--davis--wilks-residence-hall-renovation" >
 				<h5 class="list-group-item-heading">UVM Wing / Davis / Wilks Residence Hall Renovation, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED silver
