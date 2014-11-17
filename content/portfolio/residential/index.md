@@ -46,7 +46,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/residential/888-main-street-roosevelt-island-ny-fuel-cell" >
+			<a class="list-group-item" href="/portfolio/888-main-street-roosevelt-island-ny-fuel-cell" >
 				<h5 class="list-group-item-heading">Octagon Apartments Fuel Cell, 	    888 Main Street, Roosevelt, Island, NY, NY</h5>
 				<p class="list-group-item-text small">
 						    
