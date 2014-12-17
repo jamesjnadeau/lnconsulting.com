@@ -7,15 +7,8 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 # Services
 
 <div>
-	<div class="well">
-		<h4 class="">
-			Big or Small project? <small>We can come through for you.</small>
-		</h4>
-	</div>
 	<div class="row">
 		<div class="col-md-6" >
-			
-
 			<ul class="list-group">
 				<a class="list-group-item" href="/services/mechanical" data-img-url="/files/Building_services_coordinated_drawing.JPG" >Mechanical</a>
 				<a class="list-group-item" href="/services/plumbing" data-img-url="/files/MEP_Room_Virginia_Tech.JPG" >Plumbing</a>

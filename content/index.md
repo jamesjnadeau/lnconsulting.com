@@ -3,24 +3,10 @@ Title: Welcome
 Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
 */
 
-
-# Building For The Environment
-
 <div>
-	<div class="jumbotron">
-		<div class="row" >
-			<div class="col-md-9" >
-				<p>
-					We are a service oriented mechanical, electrical, and energy <u>Engineering Design Firm</u>. 
-					With loads of experience integrating <u>Geothermal</u> and <u>Renewable Resources</u>, let us help you meet your energy needs.
-				</p>
-			</div>
-			<div class="col-md-3" >
-				<img src="/files/LNCLOGO.jpg" style="max-height: 150px; display: block; margin: auto;" class="sm-hide">
-			</div>
-		</div>
-		
-	</div>
+	<h1 class="avoid-logo">
+		Thoughtful and integrated buildings that perform for the environment.
+	</h1>
 </div>
 
 <div>
@@ -67,8 +53,8 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<div class="col-md-8">
 				<h2>We can help! Please let us know how.</h2>
 			</div>
-			<div class="col-md-4">
-				<a href="/contact" class="btn btn-default btn-lg pull-right" style="margin: 6px; background-color: #51534a; color: white;">Get In Touch Today</a>
+			<div class="col-md-4" style="margin-top: 10px;">
+				<a href="/contact" class="btn btn-default btn-lg pull-right" style="margin: 6px; background-color: #84bd00; color: white; border-width:0px;">Get In Touch Today</a>
 			</div>
 		</div>
 	</div>
