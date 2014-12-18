@@ -39,10 +39,6 @@ h1
 	font-family: 'Montserrat', sans-serif;
 }
 
-h1.avoid-logo {
-	padding-left: 110px;
-}
-
 img.content-secondary
 {
 	max-width: 100%;
@@ -152,15 +148,19 @@ u {
 	{
 		font-size: 24px;
 	}
+	h1.avoid-logo {
+		padding-left: 110px;
+	}
 }
 @media (min-width: 992px) 
 {
+	
+
 	img.content-secondary
 	{
 		width: 80%;
 		margin: 0px auto 10px auto;
 	}
-	
 	.img-scroller {
 		width: 455px;
 	}
@@ -182,14 +182,12 @@ u {
 	{
 		text-align: center;
 	}
-	
 	.frontp,
 	.content
 	{
 		width: 50%;
 		margin: 0px auto 10px auto;
 	}
-	
 	/*
 	.container p,
 	*:not(.navbar) > .container ul:not(.list-group)
@@ -198,8 +196,6 @@ u {
 		margin: 0px auto 10px auto;
 	}
 	*/
-	
-	
 }
 
 @media (max-width: 600px) {

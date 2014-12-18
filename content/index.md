@@ -5,7 +5,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 
 <div>
 	<h1 class="avoid-logo">
-		Thoughtful and integrated buildings that perform for the environment.
+		Thoughtful and Integrated Buildings<br/>That Perform For the Environment!
 	</h1>
 </div>
 
