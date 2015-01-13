@@ -21,7 +21,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					<li>waste neutralization</li>
 					<li>storm drainage</li>
 					<li>process filtration</li>
-					<li>and waste processing</li>
+					<li>waste processing</li>
 				</ul>
 				<p>
 					The team excels in creative energy efficiency and renewable design techniques. 

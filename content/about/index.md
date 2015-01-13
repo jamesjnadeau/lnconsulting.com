@@ -12,17 +12,17 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<ul class="list-group">
 				<!-- <h3 class="list-group-item" >What we are about</h3> -->
 				<li class="list-group-item" >
-					<h4>Mission</h4>
-					<p class="list-group-item-text">Evolve building design through creative integration techniques to enhance the coexistence of people and nature.</p>
+					<h4>Company</h4>
+					<p class="list-group-item-text">L.N. Consulting provides mechanical, plumbing, electrical, and fire protection design and consulting services, and energy consulting services.</p>
 				</li>
 				<li class="list-group-item" >
-					<h4>Approach &amp; Awards</h4>
+					<h4>Approach</h4>
 					<ul class="list-group-item-text">
 						<li>
-							Integrate building systems experience, design team creativity, and quantitative energy modeling to develop life cycle cost effective data for clients and design teams. 
+							Utilize creative design and our broad knowledge of building systems to provide cost effective and efficient building solutions. 
 						</li>
 						<li>
-							Actively analyze the data to develop appropriate pathways for building systems integration. 
+							Actively analyze the energy model data to develop appropriate pathways for building systems integration. 
 						</li>
 						<li>
 							Work with the client and design team to create holistic systems design approaches for thoughtful buildings that measure up to investment strategies. 
@@ -32,6 +32,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						</li>
 						<li>
 							Work closely with and coordinate modeling techniques to maximize energy incentives from; utilities, energy incentive organizations, and grant providers.
+						</li>
+						<li>
+							Utilize creative design and our broad knowledge of building systems to provide cost effective and efficient building solutions.
 						</li>
 					</ul>
 				</li>
