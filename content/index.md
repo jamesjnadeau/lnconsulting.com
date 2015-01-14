@@ -15,9 +15,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a href="/jay-peak" >
 				<div class="thumbnail">
 					<img src="/files/hoteljay1.jpg" >
-					<div class="caption">
-						<h3>Jay Peak Resort</h3>
-					</div>
+					<!--<div class="caption">
+						<!--<h3>Jay Peak Resort</h3>
+					</div>-->
 				</div>
 			</a>
 		</div>
@@ -25,9 +25,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a href="/st-mikes" >
 				<div class="thumbnail">
 					<img src="/files/st-mikes-2.jpg" >
-					<div class="caption">
+					<!--<div class="caption">
 						<h3>St. Michael’s College</h3>
-					</div>
+					</div>-->
 				</div>
 			</a>
 		</div>
@@ -35,9 +35,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a href="/renewable" >
 				<div class="thumbnail">
 					<img src="/files/teal-farm.jpg" >
-					<div class="caption">
+					<!--<div class="caption">
 						<h3>Solar and Geothermal</h3>
-					</div>
+					</div>-->
 				</div>
 			</a>
 		</div>
@@ -48,9 +48,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a href="/portfolio/higher-education/middlebury-college-biomass-project" >
 				<div class="thumbnail">
 					<img src="/files/biomass_exterior.jpg" >
-					<div class="caption">
+					<!--<div class="caption">
 						<h3>Biomass Plant</h3>
-					</div>
+					</div>-->
 				</div>
 			</a>
 		</div>
@@ -58,9 +58,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a href="/portfolio/middlebury-college-franklin-environmental-center-at-hillcrest-hall" >
 				<div class="thumbnail">
 					<img src="/files/middlebury_franklin.jpg" >
-					<div class="caption">
-						<h3>Middlebury College</h3>
-					</div>
+					<!--<div class="caption">
+						<!--<h3>Middlebury College</h3>
+					</div>-->
 				</div>
 			</a>
 		</div>
@@ -68,9 +68,9 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<a href="/portfolio/health-care/" >
 				<div class="thumbnail">
 					<img src="/files/fletcher_allen.jpg" >
-					<div class="caption">
-						<h3>Fletcher Allen</h3>
-					</div>
+					<!--<div class="caption">
+						<!--<h3>Fletcher Allen</h3>
+					</div>-->
 				</div>
 			</a>
 		</div>

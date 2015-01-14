@@ -116,7 +116,9 @@ a.list-group-item .list-group-item-heading:hover
 	max-width: 100%;
 }
 
-.front .thumbnail,
+.front .thumbnail {
+	min-height: 0px ! important;
+}
 .front a{
 	/*min-height: 420px;*/
 	text-decoration: none;
@@ -141,6 +143,19 @@ u {
 .carousel-caption {
 	background-color:rgba(81, 83, 74, 0.5)
 }
+
+.contact-list {
+	text-align: center;
+}
+
+.contact-list p a{
+	color: white;
+}
+
+.contact-list p a .email {
+	color: LightSkyBlue;
+}
+
 
 @media (max-width: 992px) 
 {
