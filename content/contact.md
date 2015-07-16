@@ -48,9 +48,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 					<p>
 						<a href="mailto:idonahue@lnconsulting.com" >Ian Donahue <span class="email">idonahue@lnconsulting.com</span></a>
 					</p>
-					<p>
-						<a href="mailto:ccolgan@lnconsulting.com" >Casey Colgan <span class="email">ccolgan@lnconsulting.com</span></a>
-					</p>
 				</div>
 				<div class="col-md-5" >
 					<div style="margin-top: 20px;">

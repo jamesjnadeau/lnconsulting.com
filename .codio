@@ -3,6 +3,7 @@
 
 // Run button configuration
   "commands": {
+	  "Deploy To App Engine": "appcfg.py --oauth2 --noauth_local_webserver --allow_any_runtime -A linen-creek-707 update ./",
 	  "Install app engine": "parts install googleappengine php5 php5-apache2 php5-bcmath",
         "Start app engine": "dev_appserver.py ./ --php_executable_path /home/codio/.parts/bin/php-cgi --host 0.0.0.0"
   },
