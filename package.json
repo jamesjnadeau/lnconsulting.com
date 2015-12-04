@@ -1,0 +1,43 @@
+{
+  "name": "lnconsulting.com",
+  "version": "0.0.1",
+  "description": "My site was made with Pico ====",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "copy-webpack-plugin": "^0.3.3",
+    "css-loader": "^0.23.0",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "file-loader": "^0.8.5",
+    "filewalker": "^0.1.2",
+    "html-loader": "^0.4.0",
+    "html-webpack-plugin": "^1.7.0",
+    "image-webpack-loader": "^1.6.2",
+    "jade": "^1.11.0",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.2",
+    "loader-utils": "^0.2.12",
+    "marked": "^0.3.5",
+    "static-site-loader": "0.0.2",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node_modules/.bin/webpack-dev-server --inline --progress --colors -d --host 0.0.0.0",
+    "watch": "node_modules/.bin/webpack --progress --colors --watch -d",
+    "build": "node_modules/.bin/webpack --progress --colors -p -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjnadeau/lnconsulting.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjnadeau/lnconsulting.com/issues"
+  },
+  "homepage": "https://github.com/jamesjnadeau/lnconsulting.com#readme"
+}
