@@ -14,7 +14,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">Gateway Center, 	    Hanover, NH</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/laboratory/university-of-vermont-%E2%80%93-marsh-life-science-expansion" >
+			<a class="list-group-item" href="/portfolio/laboratory/university-of-vermont-marsh-life-science-expansion" >
 				<h5 class="list-group-item-heading">University of Vermont Marsh Life Science Expansion, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">LEED silver</p>
 			</a>

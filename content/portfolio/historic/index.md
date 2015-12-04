@@ -22,11 +22,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">Middlebury College Franklin Environmental Center at Hillcrest Hall, Middlebury, VT</h5>
 				<p class="list-group-item-text small">LEED platinum</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/historic/middlebury-college-%E2%80%93-proctor-hall-renovation-project" >
+			<a class="list-group-item" href="/portfolio/historic/middlebury-college-proctor-hall-renovation-project" >
 				<h5 class="list-group-item-heading">Middlebury College ? Proctor Hall Renovation Project, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/historic/burlington-city-of-%E2%80%93-moran-center-project" >
+			<a class="list-group-item" href="/portfolio/historic/burlington-city-of-moran-center-project" >
 				<h5 class="list-group-item-heading">Moran Center Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
@@ -42,7 +42,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">Teal Farm, 	    Huntington, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/historic/university-of-vermont-%E2%80%93-given-building-infill-project" >
+			<a class="list-group-item" href="/portfolio/historic/university-of-vermont-given-building-infill-project" >
 				<h5 class="list-group-item-heading">University of Vermont, Given Building Infill Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">LEED gold</p>
 			</a>

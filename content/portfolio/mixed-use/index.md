@@ -20,7 +20,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 						    LEED certified
 				</p>
 			</a>
-			<a class="list-group-item" href="/portfolio/mixed-use/burlington-city-of-%E2%80%93-moran-center-project" >
+			<a class="list-group-item" href="/portfolio/mixed-use/burlington-city-of-moran-center-project" >
 				<h5 class="list-group-item-heading">Moran Center Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>

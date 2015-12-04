@@ -46,15 +46,15 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">Middlebury College Compressed Biomethane Project, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-%E2%80%93-fine-arts-center-steam-line-replacement" >
+			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-fine-arts-center-steam-line-replacement" >
 				<h5 class="list-group-item-heading">Middlebury College Fine Arts Center Steam Line Replacement, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-%E2%80%93-forest-hall-steam-line-replacement" >
+			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-forest-hall-steam-line-replacement" >
 				<h5 class="list-group-item-heading">Middlebury College Forest Hall Steam Line Replacement, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-%E2%80%93-freeman-international-studies-center-to-bicentennial-hall-steam-line-replacement" >
+			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-freeman-international-studies-center-to-bicentennial-hall-steam-line-replacement" >
 				<h5 class="list-group-item-heading">Middlebury College Freeman International Studies Center to Bicentennial Hall Steam Line Replacement, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
@@ -62,11 +62,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">Middlebury College High Voltage Power Distribution Survey and Corrective Action Project, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-%E2%80%93-proctor-hall-steam-line-replacement" >
+			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-proctor-hall-steam-line-replacement" >
 				<h5 class="list-group-item-heading">Middlebury College Proctor Hall Steam Line Replacement, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-%E2%80%93-starr-hall-to-college-library-steam-line-replacement" >
+			<a class="list-group-item" href="/portfolio/plant-systems/middlebury-college-starr-hall-to-college-library-steam-line-replacement" >
 				<h5 class="list-group-item-heading">Middlebury College Starr Hall to College Library Steam Line Replacement, 	    Middlebury, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
@@ -86,15 +86,15 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">University of Massachusetts North Campus Infrastructure Improvements, 	    Amherst, MA</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/university-of-massachusetts-uma-07-52-steam-line-replacements-%E2%80%93-flint-way-morrill-ii--orchard-hill" >
+			<a class="list-group-item" href="/portfolio/plant-systems/university-of-massachusetts-uma-07-52-steam-line-replacements-flint-way-morrill-ii--orchard-hill" >
 				<h5 class="list-group-item-heading">University of Massachusetts UMA #07-52 Steam Line Replacements Flint Way, Morrill II, &amp; Orchard Hill, 	    Amherst, MA</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/university-of-massachusetts-uma-08-50-steam-line-replacements-%E2%80%93-flint-way-phase-ii" >
+			<a class="list-group-item" href="/portfolio/plant-systems/university-of-massachusetts-uma-08-50-steam-line-replacements-flint-way-phase-ii" >
 				<h5 class="list-group-item-heading">University of Massachusetts UMA #08-50 Steam Line Replacements Flint Way, Phase II, 	    Amherst, MA</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-			<a class="list-group-item" href="/portfolio/plant-systems/university-of-vermont-%E2%80%93-marsh-life-science-expansion" >
+			<a class="list-group-item" href="/portfolio/plant-systems/university-of-vermont-marsh-life-science-expansion" >
 				<h5 class="list-group-item-heading">University of Vermont Marsh Life Science Expansion, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">
 						    LEED silver
