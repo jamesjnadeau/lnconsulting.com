@@ -1,3 +1,4 @@
+require('./jquery.smoothState.js');
 //Google Analytics
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -32,8 +33,8 @@ $(document).ready(function()
 				development: true,
 				onStart: function(url, $container)
 				{
-					var temp = $('.container.animated.{{page_animation_in}}');
-					temp.removeClass('{{page_animation_in}}').addClass('{{page_animation_out}}');
+					var temp = $('.container.animated.fadeInDown');
+					temp.removeClass('fadeInDown').addClass('fadeOutDownBig');
 					// Scroll user to the top
 					$body.animate({ 'scrollTop': 0 });
 				},
@@ -62,7 +63,6 @@ $(document).ready(function()
 		//fix for pages with blank images
 		var test = $body.find('.img-responsive.img-rounded').attr('src');
 		if(!test) {
-			console.log(test);
 			$('div.col-md-6').removeClass('col-md-6').addClass('col-md-12');
 		}
 	}
