@@ -68,14 +68,12 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">Waring Residence, 	    South Hero, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-
 			</ul>
 		</div>
 		<div class="col-md-6"  >
 			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
 				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/teal-farm.jpg" >
 			</div>
-			
 		</div>
 	</div>
 </div>

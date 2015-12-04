@@ -92,15 +92,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</a>
 			<a class="list-group-item" href="/portfolio/higher-education/university-of-vermont-%E2%80%93-marsh-life-science-expansion" >
 				<h5 class="list-group-item-heading">University of Vermont Marsh Life Science Expansion, 	    Burlington, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED silver
-				</p>
+				<p class="list-group-item-text small">LEED silver</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/higher-education/uvm-colchester-research-facility" >
 				<h5 class="list-group-item-heading">UVM Colchester Research Facility, 	    Colchester, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED silver
-				</p>
+				<p class="list-group-item-text small">LEED silver</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/higher-education/uvm-cook-hall-nuclear-magnetic-resonance-laboratory-project" >
 				<h5 class="list-group-item-heading">UVM Cook Hall Nuclear Magnetic Resonance Laboratory Project, 	    Burlington, VT</h5>
@@ -128,24 +124,18 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</a>
 			<a class="list-group-item" href="/portfolio/higher-education/uvm-%E2%80%93-marsh--austin--tupper-residence-hall-renovation" >
 				<h5 class="list-group-item-heading">UVM Marsh / Austin / Tupper Residence Hall Renovation, 	    Burlington, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED silver
-				</p>
+				<p class="list-group-item-text small">LEED silver</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/higher-education/uvm-%E2%80%93-wing--davis--wilks-residence-hall-renovation" data-img-url="/files/uvm-davis-wilks.jpg" >
 				<h5 class="list-group-item-heading">UVM Wing / Davis / Wilks Residence Hall Renovation, 	    Burlington, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED silver
-				</p>
+				<p class="list-group-item-text small">LEED silver</p>
 			</a>
-
 			</ul>
 		</div>
 		<div class="col-md-6"  >
 			<div class="img-scroller" >
 				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/Marsh-Austin-Tupper1_rs.jpg" >
 			</div>
-			
 		</div>
 	</div>
 </div>

@@ -106,7 +106,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">VA Hospital Mental Health Renovation Project, 	    White River Junction, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-
 			</ul>
 		</div>
 		<div class="col-md-6" >

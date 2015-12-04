@@ -46,7 +46,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">University of Vermont, Given Building Infill Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small">LEED gold</p>
 			</a>
-
 			</ul>
 		</div>
 		<div class="col-md-6" >

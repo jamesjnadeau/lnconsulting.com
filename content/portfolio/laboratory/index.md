@@ -16,15 +16,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			</a>
 			<a class="list-group-item" href="/portfolio/laboratory/university-of-vermont-%E2%80%93-marsh-life-science-expansion" >
 				<h5 class="list-group-item-heading">University of Vermont Marsh Life Science Expansion, 	    Burlington, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED silver
-				</p>
+				<p class="list-group-item-text small">LEED silver</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/laboratory/uvm-colchester-research-facility" >
 				<h5 class="list-group-item-heading">UVM Colchester Research Facility, 	    Colchester, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED silver
-				</p>
+				<p class="list-group-item-text small">LEED silver</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/laboratory/uvm-cook-hall-nuclear-magnetic-resonance-laboratory-project" >
 				<h5 class="list-group-item-heading">UVM Cook Hall Nuclear Magnetic Resonance Laboratory Project, 	    Burlington, VT</h5>
@@ -46,14 +42,12 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<h5 class="list-group-item-heading">UVM Interim ICP Spectrometer Lab Renovation Project, 	    Burlington, VT</h5>
 				<p class="list-group-item-text small"></p>
 			</a>
-
 			</ul>
 		</div>
 		<div class="col-md-6"  >
 			<div class="img-scroller" data-spy="affix" data-offset-top="60" >
 				<img id="thumbnail_img" class="img-responsive img-rounded" src="/files/eng1.jpg" >
 			</div>
-			
 		</div>
 	</div>
 </div>

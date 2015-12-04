@@ -48,8 +48,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<div class="">
 				<img class="img-responsive img-rounded"  src="/files/uvm-davis-wilks.jpg" >
 			</div>
-			
-			
 		</div>
 	</div>
 </div>

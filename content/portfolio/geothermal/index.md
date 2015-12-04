@@ -12,47 +12,32 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<ul class="list-group">
 				<a class="list-group-item" href="/portfolio/geothermal/champlain-college-perry-hall-renovation-project" data-img-url="/files/champlain_perry-hall.jpg" >
 					<h5 class="list-group-item-heading">Champlain College Perry Hall Renovation Project, 	    Burlington, VT</h5>
-					<p class="list-group-item-text small">
-								LEED platinum
-					</p>
+					<p class="list-group-item-text small">LEED platinum</p>
 				</a>
 				<a class="list-group-item" href="/portfolio/geothermal/burlington-school-district-cp-smith-school-renovation" >
 					<h5 class="list-group-item-heading">CP Smith School Renovation, 	    Burlington, VT</h5>
-					<p class="list-group-item-text small">
-
-					</p>
+					<p class="list-group-item-text small"></p>
 				</a>
 				<a class="list-group-item" href="/portfolio/geothermal/crowe-residence" >
 					<h5 class="list-group-item-heading">Crowe Residence, Shelburne, VT</h5>
-					<p class="list-group-item-text small">
-
-					</p>
+					<p class="list-group-item-text small"></p>
 				</a>
 				<a class="list-group-item" href="/portfolio/geothermal/burlington-school-district-barnes-school-renovation" >
 					<h5 class="list-group-item-heading">Lawrence Barnes School Renovation, 	    Burlington, VT</h5>
-					<p class="list-group-item-text small">
-
-					</p>
+					<p class="list-group-item-text small"></p>
 				</a>
 				<a class="list-group-item" href="/portfolio/nrg-systems-expansion-project" data-img-url="/files/nrg-systems.jpg"  >
 					<h5 class="list-group-item-heading">NRG Systems Expansion Project, 	    Hinesburg, VT</h5>
-					<p class="list-group-item-text small">
-								LEED gold
-					</p>
+					<p class="list-group-item-text small">LEED gold</p>
 				</a>
 				<a class="list-group-item" href="/portfolio/geothermal/kalichstein-residence" >
 					<h5 class="list-group-item-heading">Waitsfield, VT Residence</h5>
-					<p class="list-group-item-text small">
-
-					</p>
+					<p class="list-group-item-text small"></p>
 				</a>
 				<a class="list-group-item" href="/portfolio/geothermal/waring-residence" >
 					<h5 class="list-group-item-heading">Waring Residence, 	    South Hero, VT</h5>
-					<p class="list-group-item-text small">
-
-					</p>
+					<p class="list-group-item-text small"></p>
 				</a>
-
 			</ul>
 		</div>
 		<div class="col-md-6" >
