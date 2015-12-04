@@ -20,14 +20,12 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<p>$180 million</p>
 				<p>To be completed 2010</p>
 				<p>LEED platinum</p>
-				
 			</div>
 		</div>
 		<div class="col-md-6" >
 			<img class="img-responsive img-rounded" src="/files/Becker_360StateStreet_05_1.jpg" >
 		</div>
 	</div>
-	
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
@@ -42,7 +40,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<p>$3.5 million</p>
 				<p>To be completed 2010</p>
 				<p>LEED platinum</p>
-				
 			</div>
 		</div>
 		<div class="col-md-6" >
