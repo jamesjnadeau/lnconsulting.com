@@ -12,33 +12,23 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 			<ul class="list-group">
 							<a class="list-group-item" href="/portfolio/360-state-street" >
 				<h5 class="list-group-item-heading">360 State Street, 	    New Haven, CT</h5>
-				<p class="list-group-item-text small">
-						    LEED platinum
-				</p>
+				<p class="list-group-item-text small">LEED platinum</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/commercial/gateway-center" >
 				<h5 class="list-group-item-heading">Gateway Center, 	    Hanover, NH</h5>
-				<p class="list-group-item-text small">
-						    
-				</p>
+				<p class="list-group-item-text small"></p>
 			</a>
 			<a class="list-group-item" href="/portfolio/commercial/burlington-city-of-%E2%80%93-moran-center-project" >
 				<h5 class="list-group-item-heading">Moran Center Project, 	    Burlington, VT</h5>
-				<p class="list-group-item-text small">
-						    
-				</p>
+				<p class="list-group-item-text small"></p>
 			</a>
 			<a class="list-group-item" href="/portfolio/commercial/nrg-systems-expansion-project" >
 				<h5 class="list-group-item-heading">NRG Systems Expansion Project, 	    Hinesburg, VT</h5>
-				<p class="list-group-item-text small">
-						    LEED gold
-				</p>
+				<p class="list-group-item-text small">LEED gold</p>
 			</a>
 			<a class="list-group-item" href="/portfolio/888-main-street-roosevelt-island-ny-fuel-cell" >
 				<h5 class="list-group-item-heading">Octagon Apartments Fuel Cell, 	    888 Main Street, Roosevelt, Island, NY, NY</h5>
-				<p class="list-group-item-text small">
-						    
-				</p>
+				<p class="list-group-item-text small"></p>
 			</a>
 
 			</ul>
