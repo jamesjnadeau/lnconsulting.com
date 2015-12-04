@@ -1,5 +1,5 @@
 application: lnconsulting
-version: 7
+version: 8
 runtime: php55
 api_version: 1
 threadsafe: true
@@ -207,11 +207,9 @@ handlers:
   static_files: built/\1/index.html
   upload: built/(.+)/index.html
   expiration: "15m"
-  secure: always
 
 # site root
 - url: /
   static_files: built/index.html
   upload: built/index.html
   expiration: "15m"
-  secure: always
