@@ -4,6 +4,16 @@ var fs = require('fs');
 var pathUtil = require('path');
 var marked = require('marked');
 var jade = require('jade');
+var minify = require('html-minifier').minify;
+var minifyOptions = {
+	removeComments: true,
+	collapseWhitespace: true,
+	collapseBooleanAttributes: true,
+	removeAttributeQuotes: true,
+	removeEmptyAttributes: true,
+	//removeEmptyElements: true,
+}
+
 
 //Plugins
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
@@ -65,8 +75,11 @@ module.exports = {
 
   staticSiteLoader: {
     //perform any preprocessing tasks you might need here.
-    preProcess: function(source) {
-      //Define our template path
+    preProcess: function(source, path) {
+      //watch the content directory for changes
+      this.addContextDependency(path);
+
+	  //Define our template path
       var templatePath = 'templates/default.jade';
 
       //watch the template for changes
@@ -109,7 +122,7 @@ module.exports = {
         content: marked(content.replace(picoCMSMetaPattern, ''))
       });
 
-      return fileContents;
+      return minify(fileContents, minifyOptions);
     },
   }
 };

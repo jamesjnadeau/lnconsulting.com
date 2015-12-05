@@ -15,13 +15,11 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<p>The system design includes high efficiency energy recovery ventilation with demand control distribution, occupancy lighting controls, day lighting controls, natural day light balancing of almost all spaces, domestic water solar heating, pellet wood boilers, 70 kW of PV power production, and natural nighttime outdoor air building cooling/ventilation.</p>
 				<p>The project has achieved LEED Gold certification and was awarded the Better Building by Design Award in 2009.</p>
 			</div>
-			
 		</div>
 		<div class="col-md-6" >
 			<img class="img-responsive img-rounded" src="/files/nrg-systems.jpg" >
 		</div>
 	</div>
-	
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >

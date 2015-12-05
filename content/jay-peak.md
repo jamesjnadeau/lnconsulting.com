@@ -15,7 +15,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<p>In addition, L.N. Consulting completed the design of a 36.0 MMBH high efficiency boiler plant to support the water park and hotel infrastructure.  </p>
 				<p>The heating plant included dual fuel burners for future compressed bio-methane fuel integration.  </p>
 			</div>
-			
 		</div>
 		<div class="col-md-6" >
 			<img class="img-responsive img-rounded" src="/files/jay-peak-pumphouse.jpg" >
@@ -31,7 +30,6 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<p>The proposed program includes commercial/retail space, conference center, restaurant, bar, exercise room, spa, ski school space, and 170 guest units.  </p>
 				<p>The guest units consist of studio, one bedroom, two bedroom, and three bedroom units.  </p>
 				<p>The HVAC system is based on a water source heat pump system and includes energy recovery ventilators configured as a variable volume system with CO2 monitoring for ventilation air flow controls.</p>
-			
 			</div>
 		</div>
 		<div class="col-md-6" >
