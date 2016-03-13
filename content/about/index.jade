@@ -1,0 +1,41 @@
+extends ../../templates/default
+
+block vars
+  -var title = 'About | More about L.N. Consulting'
+  -var description = 'Learn more about L.N. Consulting\'s company and expertise.'
+
+block content
+  h1 About
+
+  div
+    .row
+      .col-md-6
+        ul.list-group
+          // <h3 class="list-group-item" >What we are about</h3>
+          li.list-group-item
+            h4 Company
+            p.list-group-item-text
+              | L.N. Consulting provides mechanical, plumbing, electrical, and fire protection design and consulting services, and energy consulting services.
+          li.list-group-item
+            h4 Approach
+            ul.list-group-item-text
+              li
+                | Utilize creative design and our broad knowledge of building systems to provide cost effective and efficient building solutions.
+              li
+                | Actively analyze the energy model data to develop appropriate pathways for building systems integration.
+              li
+                | Work with the client and design team to create holistic systems design approaches for thoughtful buildings that measure up to investment strategies.
+              li
+                | Track building operation and energy usage to assist with tuning of building to maximize energy efficiency.
+              li
+                | Work closely with and coordinate modeling techniques to maximize energy incentives from; utilities, energy incentive organizations, and grant providers.
+              li
+                | Utilize creative design and our broad knowledge of building systems to provide cost effective and efficient building solutions.
+          //
+            <a class="list-group-item" href="/about/team" >
+            <h4>Team</h4>
+            <p class="list-group-item-text"></p>
+            </a>
+      .col-md-6
+        div
+          img.img-responsive.img-rounded(src='/files/shelburne_farms.jpg')

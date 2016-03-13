@@ -1,6 +1,4 @@
-application: lnconsulting
-version: 8
-runtime: php55
+runtime: python27
 api_version: 1
 threadsafe: true
 
@@ -185,7 +183,7 @@ handlers:
 # audio files
 - url: /(.*\.(mid|midi|mp3|wav))
   static_files: built/\1
-  upload: built/(.*\.(mid|midi|mp3|wav))  
+  upload: built/(.*\.(mid|midi|mp3|wav))
 
 # windows files
 - url: /(.*\.(doc|exe|ppt|rtf|xls))

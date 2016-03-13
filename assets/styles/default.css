@@ -104,6 +104,10 @@ a.list-group-item .list-group-item-heading:hover
   color: #51534a;
 }
 
+.navbar-collapse {
+  border-top: 0;
+}
+
 .dropdown-menu li a,
 .dropdown-menu li a span
 {
@@ -175,8 +179,6 @@ u {
   h1
   {
     font-size: 24px;
-  }
-  h1.avoid-logo {
     padding-left: 110px;
   }
 

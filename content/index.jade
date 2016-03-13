@@ -1,0 +1,40 @@
+extends ../templates/default
+
+block vars
+  -var title = 'L.N. Consulting | Thoughtful and Integrated Buildings, That Perform For The Environment'
+  -var description = ' L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience'
+
+
+block content
+  div
+    h1.avoid-logo
+      | Thoughtful and Integrated Buildings
+      br
+      | That Perform For The Environment
+  div
+    .row.front
+      .col-md-4
+        a(href='/jay-peak')
+          .thumbnail
+            img(src='/files/hoteljay1.jpg')
+      .col-md-4
+        a(href='/st-mikes')
+          .thumbnail
+            img(src='/files/st-mikes-2.jpg')
+      .col-md-4
+        a(href='/renewable')
+          .thumbnail
+            img(src='/files/teal-farm.jpg')
+    .row.front
+      .col-md-4
+        a(href='/portfolio/higher-education/middlebury-college/biomass-project')
+          .thumbnail
+            img(src='/files/biomass_exterior.jpg')
+      .col-md-4
+        a(href='/portfolio/higher-education/middlebury-college/franklin-environmental-center-at-hillcrest-hall')
+          .thumbnail
+            img(src='/files/middlebury_franklin.jpg')
+      .col-md-4
+        a(href='/portfolio/health-care/')
+          .thumbnail
+            img(src='/files/fletcher_allen.jpg')

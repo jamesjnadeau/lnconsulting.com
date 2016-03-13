@@ -1,0 +1,104 @@
+extends ../../../templates/default
+
+block vars
+  -var title = 'Renewable Energy'
+  -var description = 'L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience'
+
+
+block content
+  h1 Renewable Energy
+
+  .row
+    .col-md-6
+      ul.list-group
+        a.list-group-item(href='/portfolio/360-state-street', data-img-url='/files/360-state-st-new-haven-ct.jpg')
+          p.list-group-item-text.small.pull-right LEED platinum
+          h5.list-group-item-heading 360 State Street
+            br
+            span.pull-right New Haven, CT
+          
+        a.list-group-item(href='/portfolio/renewable-energy/3-cathedral-square-pv-installation-project', data-img-url='/files/3-cathedral-square.jpg')
+          h5.list-group-item-heading 3 Cathedral Square PV Installation Project
+            br
+            span.pull-right Burlington, VT
+        a.list-group-item(href='/portfolio/renewable-energy/camels-hump-middle-school-pv-installation-project', data-img-url='/files/camels-hump-middle-school.jpg')
+          h5.list-group-item-heading Camels Hump Middle School PV Installation Project
+            br
+            span.pull-right Richmond, VT
+        a.list-group-item(href='/portfolio/renewable-energy/crowe-residence')
+          h5.list-group-item-heading Crowe Residence
+            br
+            span.pull-right Shelburne, VT
+        a.list-group-item(href='/portfolio/green-mountain-college-biomass-project', data-img-url='/files/GMC_low_grades_Biomass_plant.jpg')
+          h5.list-group-item-heading Green Mountain College Biomass Project
+            br
+            span.pull-right Poultney, VT
+        a.list-group-item(href='/portfolio/renewable-energy/burlington-school-district-barnes-school-renovation')
+          h5.list-group-item-heading Lawrence Barnes School Renovation
+            br
+            span.pull-right Burlington, VT
+        a.list-group-item(href='/portfolio/maxwell-farm-cow-power-cogeneration-project-coventry-vt', data-img-url='/files/maxwell-farm.jpg')
+          h5.list-group-item-heading Maxwell Farm "Cow Power" Cogeneration Project
+            br
+            span.pull-right Coventry, VT
+        a.list-group-item(href='/portfolio/renewable-energy/middlebury-college-biomass-project', data-img-url='/files/middlebury_biomass_exterior.jpg')
+          h5.list-group-item-heading Middlebury College Biomass Project
+            br
+            span.pull-right Middlebury, VT
+        a.list-group-item(href='/portfolio/renewable-energy/middlebury-college-compressed-biomethane-project')
+          h5.list-group-item-heading Middlebury College Compressed Biomethane Project
+            br
+            span.pull-right Middlebury, VT
+        a.list-group-item(href='/portfolio/middlebury-college-franklin-environmental-center-at-hillcrest-hall', data-img-url='/files/middlebury_franklin.jpg')
+          p.list-group-item-text.small.pull-right LEED platinum
+          h5.list-group-item-heading
+            | Middlebury College Franklin Environmental Center at Hillcrest Hall
+            br
+            span.pull-right Middlebury, VT
+        a.list-group-item(href='/portfolio/nrg-systems-expansion-project', data-img-url='/files/nrg-systems.jpg')
+          p.list-group-item-text.small.pull-right LEED gold
+          h5.list-group-item-heading NRG Systems Expansion Project
+            br
+            span.pull-right Hinesburg, VT
+        a.list-group-item(href='/portfolio/888-main-street-roosevelt-island-ny-fuel-cell', data-img-url='/files/octogon_apartments.jpg')
+          h5.list-group-item-heading Octagon Apartments Fuel Cell
+            br
+            span.pull-right  Roosevelt Island, NY
+        a.list-group-item(href='/portfolio/renewable-energy/shelburne-farms-pv-installation-project')
+          h5.list-group-item-heading Shelburne Farms PV Installation Project
+            br
+            span.pull-right Shelburne, VT
+        a.list-group-item(href='/portfolio/renewable-energy/shelburne-farms-residential-learning-center')
+          h5.list-group-item-heading Shelburne Farms Residential Learning Center
+            br
+            span.pull-right Shelburne, VT
+        a.list-group-item(href='/portfolio/teal-farm', data-img-url='/files/teal-farm.jpg')
+          h5.list-group-item-heading Teal Farm
+            br
+            span.pull-right Huntington, VT
+        a.list-group-item(href='/portfolio/renewable-energy/vermont-air-national-guard-renewable-energy-study')
+          h5.list-group-item-heading Vermont Air National Guard Renewable Energy Study
+            br
+            span.pull-right Burlington, VT
+        a.list-group-item(href='/portfolio/renewable-energy/kalichstein-residence')
+          h5.list-group-item-heading Waitsfield Residence
+            br
+            span.pull-right Waitsfield, VT
+        a.list-group-item(href='/portfolio/renewable-energy/waring-residence')
+          h5.list-group-item-heading Waring Residence
+            br
+            span.pull-right South Hero, VT
+    .col-md-6
+      img#thumbnail_img.img-responsive.img-rounded(src='/files/nrg-systems.jpg')
+  script.
+    $(document).ready(function() {
+    $thumbnail = $('#thumbnail_img');
+    $('a.list-group-item').hover(function() {
+    $this = $(this);
+    var data_url = $this.attr('data-img-url');
+    if(data_url) {
+    console.log(data_url);
+    $thumbnail.attr('src', data_url);
+    }
+    });
+    });
