@@ -1,0 +1,79 @@
+extends ../../../templates/default
+
+block vars
+  -var title = 'Historic'
+  -var description = 'New, and especially old, let our experince shine in bringing your historic site to life.'
+
+
+block content
+  h1 Historic
+
+  div
+    .row
+      .col-md-6
+        button.btn.btn-default.isotope-filter(data-filter=".commercial") Commercial
+        button.btn.btn-default.isotope-filter(data-filter=".school") School
+        button.btn.btn-default.isotope-filter(data-filter=".residential") Residential
+        button.btn.btn-default.isotope-filter(data-filter=".government") Government
+        button.btn.btn-default.isotope-filter(data-filter="")
+          span.glyphicon.glyphicon-remove-circle
+        hr
+        ul.list-group.isotope
+          a.list-group-item.school(href='/portfolio/historic/champlain-college-aiken-hall-renovation-project', data-img-url='/files/champlain-aiken-hall.jpg')
+            p.list-group-item-text.small LEED gold
+            h5.list-group-item-heading Champlain College Aiken Hall Renovation Project
+              br
+              span.pull-right Burlington, VT
+            
+          a.list-group-item.school(href='/portfolio/historic/champlain-college-perry-hall-renovation-project')
+            p.list-group-item-text.small LEED platinum
+            h5.list-group-item-heading Champlain College Perry Hall Renovation Project
+              br
+              span.pull-right Burlington, VT
+            
+          a.list-group-item.school(href='/portfolio/middlebury-college-franklin-environmental-center-at-hillcrest-hall', data-img-url='/files/middlebury_franklin.jpg')
+            p.list-group-item-text.small LEED platinum
+            h5.list-group-item-heading
+              | Middlebury College Franklin Environmental Center at Hillcrest Hall
+              br
+              span.pull-right Middlebury, VT
+            
+          a.list-group-item.school(href='/portfolio/historic/middlebury-college-proctor-hall-renovation-project')
+            h5.list-group-item-heading Middlebury College ? Proctor Hall Renovation Project
+              br
+              span.pull-right Middlebury, VT
+          a.list-group-item.gonvernment.commercial(href='/portfolio/historic/burlington-city-of-moran-center-project')
+            h5.list-group-item-heading Moran Center Project
+              br
+              span.pull-right Burlington, VT
+          a.list-group-item.commercial(href='/portfolio/historic/shelburne-farms-pv-installation-project', data-img-url='/files/shelburne_farms.jpg')
+            h5.list-group-item-heading Shelburne Farms PV Installation Project
+              br
+              span.pull-right Shelburne, VT
+          a.list-group-item.residential(href='/portfolio/historic/shelburne-farms-residential-learning-center')
+            h5.list-group-item-heading Shelburne Farms Residential Learning Center
+              br
+              span.pull-right Shelburne, VT
+          a.list-group-item.residential(href='/portfolio/teal-farm', data-img-url='/files/teal-farm.jpg')
+            h5.list-group-item-heading Teal Farm
+              br
+              span.pull-right Huntington, VT
+          a.list-group-item.school(href='/portfolio/historic/university-of-vermont-given-building-infill-project')
+            p.list-group-item-text.small.pull-right LEED gold
+            h5.list-group-item-heading University of Vermont, Given Building Infill Project
+              br
+              span.pull-right Burlington, VT
+      .col-md-6
+        img#thumbnail_img.img-responsive.img-rounded(src='/files/shelburne_farms.jpg')
+  script.
+    $(document).ready(function() {
+    $thumbnail = $('#thumbnail_img');
+    $('a.list-group-item').hover(function() {
+    $this = $(this);
+    var data_url = $this.attr('data-img-url');
+    if(data_url) {
+    console.log(data_url);
+    $thumbnail.attr('src', data_url);
+    }
+    });
+    });
