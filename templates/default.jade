@@ -1,4 +1,6 @@
 doctype html
+block vars
+
 html(lang='en')
   head
     meta(charset='utf-8')
@@ -52,6 +54,7 @@ html(lang='en')
               li
                 a(href='/contact') Contact
       #container.container.animated(class='fadeInDown')
+        block content
         div !{content}
     // JS
     script(src='//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js')

@@ -1,0 +1,203 @@
+extends ../../../templates/default
+
+block vars
+  -var title = 'Higher Education'
+  -var description = 'L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience'
+
+block content
+  h1 Higher Education
+
+  div
+    .row
+      .col-md-6
+        button.btn.btn-default.isotope-filter(data-filter=".champlain-college") Champlain College
+        button.btn.btn-default.isotope-filter(data-filter=".green-mountain-college") Green Mountain College
+        button.btn.btn-default.isotope-filter(data-filter=".middlebury-college") Middlebury College
+        button.btn.btn-default.isotope-filter(data-filter=".university-of-massachusetts") University of Massachusetts
+        button.btn.btn-default.isotope-filter(data-filter=".university-of-vermont") University of Vermont
+        button.btn.btn-default.isotope-filter(data-filter="")
+          span.glyphicon.glyphicon-remove-circle
+        hr
+        ul.list-group.isotope
+          a.list-group-item.champlain-college(href='/portfolio/higher-education/champlain-college/levi-smith-dormitory-project')
+            h5.list-group-item-heading Champlain College Adirondack House Dormitory Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.champlain-college(href='/portfolio/higher-education/champlain-college/aiken-hall-renovation-project', data-img-url='/files/champlain-aiken-hall.jpg')
+            p.list-group-item-text.small.pull-right LEED gold
+            h5.list-group-item-heading Champlain College Aiken Hall Renovation Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.champlain-college(href='/portfolio/higher-education/champlain-college/perry-hall-renovation-project')
+            p.list-group-item-text.small.pull-right LEED platinum
+            h5.list-group-item-heading Champlain College Perry Hall Renovation Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.green-mountain-college(href='/portfolio/higher-education/green-mountain-college/biomass-project')
+            h5.list-group-item-heading Green Mountain College Biomass Project
+              br
+              span.pull-right Poultney, VT
+
+          a.list-group-item.green-mountain-college(href='/portfolio/higher-education/green-mountain-college/high-voltage-power-distribution-replacement-and-upgrades-project')
+            h5.list-group-item-heading Green Mountain College High Voltage Power Distribution Replacement and Upgrades Project
+              br
+              span.pull-right Poultney, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/biomass-project', data-img-url='/files/biomass_exterior.jpg')
+            h5.list-group-item-heading Middlebury College Biomass Project
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/carr-hall-renovation-project')
+            h5.list-group-item-heading Middlebury College Carr Hall Renovation Project
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/compressed-biomethane-project')
+            h5.list-group-item-heading Middlebury College Compressed Biomethane Project
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/fine-arts-center-steam-line-replacement')
+            h5.list-group-item-heading Middlebury College Fine Arts Center Steam Line Replacement
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/forest-hall-steam-line-replacement')
+            h5.list-group-item-heading Middlebury College Forest Hall Steam Line Replacement
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/franklin-environmental-center-at-hillcrest-hall')
+            p.list-group-item-text.small.pull-right LEED platinum
+            h5.list-group-item-heading Middlebury College Franklin Environmental Center at Hillcrest Hall
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/freeman-international-studies-center-to-bicentennial-hall-steam-line-replacement')
+            h5.list-group-item-heading Middlebury College Freeman International Studies Center to Bicentennial Hall Steam Line Replacement
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/high-voltage-power-distribution-survey-and-corrective-action-project')
+            h5.list-group-item-heading Middlebury College High Voltage Power Distribution Survey and Corrective Action Project
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/proctor-hall-renovation-project')
+            h5.list-group-item-heading Middlebury College Proctor Hall Renovation Project
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/proctor-hall-steam-line-replacement')
+            h5.list-group-item-heading Middlebury College Proctor Hall Steam Line Replacement
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.middlebury-college(href='/portfolio/higher-education/middlebury-college/starr-hall-to-college-library-steam-line-replacement')
+            h5.list-group-item-heading Middlebury College Starr Hall to College Library Steam Line Replacement
+              br
+              span.pull-right Middlebury, VT
+
+          a.list-group-item.university-of-massachusetts(href='/portfolio/higher-education/university-of-massachusetts/north-campus-infrastructure-improvements')
+            h5.list-group-item-heading University of Massachusetts North Campus Infrastructure Improvements
+              br
+              span.pull-right Amherst, MA
+
+          a.list-group-item.university-of-massachusetts(href='/portfolio/higher-education/university-of-massachusetts/uma-07-52-steam-line-replacements-flint-way-morrill-ii--orchard-hill')
+            h5.list-group-item-heading University of Massachusetts UMA #07-52 Steam Line Replacements Flint Way, Morrill II, & Orchard Hill
+              br
+              span.pull-right Amherst, MA
+
+          a.list-group-item.university-of-massachusetts(href='/portfolio/higher-education/university-of-massachusetts/uma-08-50-steam-line-replacements-flint-way-phase-ii')
+            h5.list-group-item-heading University of Massachusetts UMA #08-50 Steam Line Replacements Flint Way, Phase II
+              br
+              span.pull-right Amherst, MA
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/given-building-infill-project')
+            p.list-group-item-text.small.pull-right LEED gold
+            h5.list-group-item-heading UVM Given Building Infill Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/marsh-life-science-expansion')
+            p.list-group-item-text.small.pull-right LEED silver
+            h5.list-group-item-heading UVM Marsh Life Science Expansion
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/colchester-research-facility')
+            p.list-group-item-text.small.pull-right LEED silver
+            h5.list-group-item-heading UVM Colchester Research Facility
+              br
+              span.pull-right Colchester, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/cook-hall-nuclear-magnetic-resonance-laboratory-project')
+            h5.list-group-item-heading UVM Cook Hall Nuclear Magnetic Resonance Laboratory Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/given-building-mechanical-master-plan')
+            h5.list-group-item-heading UVM Given Building Mechanical Master Plan
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/given-building-vivarium-cage-wash-room-renovation-project')
+            h5.list-group-item-heading UVM Given Building Vivarium Cage-wash Room Renovation Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/harris--millis-residence-hall-renovation', data-img-url='/files/Harris-Millis-6_rs.jpg')
+            h5.list-group-item-heading UVM Harris / Millis Residence Hall Renovation
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/hsrf-building-cryogenic-electron-microscope-laboratory')
+            h5.list-group-item-heading UVM HSRF Building Cryogenic Electron Microscope Laboratory
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/interim-icp-spectrometer-lab-renovation-project')
+            h5.list-group-item-heading UVM Interim ICP Spectrometer Lab Renovation Project
+              br
+              span.pull-right Burlington, VT
+
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/marsh--austin--tupper-residence-hall-renovation')
+            p.list-group-item-text.small.pull-right LEED silver
+            h5.list-group-item-heading UVM Marsh / Austin / Tupper Residence Hall Renovation
+              br
+              span.pull-right Burlington, VT
+          a.list-group-item.university-of-vermont(href='/portfolio/higher-education/university-of-vermont/wing--davis--wilks-residence-hall-renovation')
+            p.list-group-item-text.small.pull-right LEED silver
+            h5.list-group-item-heading UVM Wing / Davis / Wilks Residence Hall Renovation
+              br
+              span.pull-right Burlington, VT
+
+      .col-md-6
+        .img-scroller
+          img#thumbnail_img.img-responsive.img-rounded(src='/files/Marsh-Austin-Tupper1_rs.jpg')
+  script.
+    $(document).ready(function() {
+      $thumbnail = $('#thumbnail_img');
+      console.log($thumbnail);
+      $('a.list-group-item').hover(function() {
+        $this = $(this);
+        var data_url = $this.attr('data-img-url');
+        if(data_url) {
+          console.log(data_url);
+          $thumbnail.attr('src', data_url);
+        }
+      });
+      $( window ).scroll(function(event) {
+        var scrollY = window.pageYOffset;
+        $('.img-scroller.affix').css('top', scrollY+'px');
+      });
+      $('.img-scroller').affix({
+        offset: {
+          top: 60
+        }
+      });
+    });
