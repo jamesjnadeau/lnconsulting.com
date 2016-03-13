@@ -1,0 +1,88 @@
+extends ../templates/default
+
+block vars
+  -var title = 'Contact / Visit'
+  -var description = ' Need to contact someone or find our address? This page should get that started.'
+
+
+block content
+  h1 Contact Us
+  
+  div
+  div
+    
+    .well
+      .row.col-md-12
+        div(itemscope='', itemtype='http://schema.org/HomeAndConstructionBusiness')
+          h3(itemprop='name') L.N. Consulting INC.
+          p
+            br
+          div.text-center
+            a(href='tel:8026551753', itemprop='telephone', style='color: LightSkyBlue;') 802 655 1753
+          p
+            br
+          div.text-center
+            a(href='mailto:info@lnconsulting.com', itemprop='email', style='color: LightSkyBlue;') info@lnconsulting.com
+          p
+            br
+          
+          div.text-center(itemprop='address', itemscope='', itemtype='http://schema.org/PostalAddress')
+            span(itemprop='streetAddress') 69 Union St.
+            br
+            span(itemprop='addressLocality') Winooski
+            | ,
+            span(itemprop='addressRegion') VT
+            |  05404
+          div(style="max-width: 150px; margin: auto;")
+            a.btn.btn-default.btn-block(target="_blank" style='color: #000;', href='http://maps.google.com/maps?saddr=Current+Location&&daddr=44.493603,-73.189254')
+              | Get Directions
+      .row
+        p
+          br
+      .row
+        .col-md-7.contact-list
+          p
+            br
+          p
+            br
+          p
+            a(href='mailto:wnelson@lnconsulting.com')
+              | Wayne Nelson 
+              span.email wnelson@lnconsulting.com
+          p
+            a(href='mailto:pleks@lnconsulting.com')
+              | Paul Lekstutis 
+              span.email pleks@lnconsulting.com
+          p
+            a(href='mailto:jaskew@lnconsulting.com')
+              | John Askew 
+              span.email jaskew@lnconsulting.com
+          p
+            a(href='mailto:salexander@lnconsulting.com')
+              | Scott Alexander 
+              span.email salexander@lnconsulting.com
+          p
+            a(href='mailto:jmagnant@lnconsulting.com')
+              | John Magnant 
+              span.email jmagnant@lnconsulting.com
+          p
+            a(href='mailto:gmartin@lnconsulting.com')
+              | George Martin 
+              span.email gmartin@lnconsulting.com
+          p
+            a(href='mailto:derek@lnconsulting.com')
+              | Derek Siegler 
+              span.email derek@lnconsulting.com
+          p
+            a(href='mailto:awelch@lnconsulting.com')
+              | Aaron Welch 
+              span.email awelch@lnconsulting.com
+          p
+            a(href='mailto:idonahue@lnconsulting.com')
+              | Ian Donahue 
+              span.email idonahue@lnconsulting.com
+        .col-md-5
+          div(style='margin-top: 20px;')
+            iframe(style='width: 100%', height='400', frameborder='0', scrolling='no', marginheight='0', marginwidth='0', src='http://maps.google.com/maps?hl=en&q=ln+consulting&ie=UTF8&ll=44.493603,-73.189254&spn=0.034039,0.072012&z=14&iwloc=A&cid=5893640174708323733&output=embed')
+      br
+      
