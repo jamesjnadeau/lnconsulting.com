@@ -1,6 +1,6 @@
 /*
 Title: Services
-Description: L.N. Consulting is a mechanical, electrical, and energy services engineering design firm, with geothermal and renewable energy systems integration experience
+Description: We provide a variety of engineering services suited for architects, building firms, local, state, and federal government ventures. Commercial and residential concerns, all while respecting and protecting the environment. 
 */
 
 
@@ -20,7 +20,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 				<a class="list-group-item" href="/portfolio/laboratory/" >Laboratory</a>
 				<a class="list-group-item" href="/portfolio/residential/" >Residential</a>
 				<a class="list-group-item" href="/portfolio/leed/" >LEED</a>
-				<!-- <a class="list-group-item" href="/portfolio/industrial/" >Industrial</a> --> 
+				<!-- <a class="list-group-item" href="/portfolio/industrial/" >Industrial</a> -->
 				<a class="list-group-item" href="/portfolio/commercial/" >Commercial</a>
 				<a class="list-group-item" href="/portfolio/mixed-use/" >Mixed Use</a>
 				<a class="list-group-item" href="/portfolio/senior-living/" >Senior Living</a>
@@ -30,20 +30,20 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<div class="col-md-6" >
 			<!--
 			<div class="well" style="margin-top: 10px;" >
-			
+
 				<p>
-					We provide consulting on over 120 projects each year. 
-				</p> 
+					We provide consulting on over 120 projects each year.
+				</p>
 				<p>
-					This experience spans from small renewable energy projects, to large 
+					This experience spans from small renewable energy projects, to large
 					commercial and institutional projects.
 				</p>
-				<!-- 
+				<!--
 				<p>
-					After XX years of pioneering in this industry, you can probably imagine we've 
+					After XX years of pioneering in this industry, you can probably imagine we've
 					already done that for another client.
 				</p>
-				
+
 			</div> -->
 			<div class="">
 				<img class="img-responsive img-rounded"  src="/files/uvm-davis-wilks.jpg" >
