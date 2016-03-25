@@ -9,17 +9,17 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
-				<h3>Waring Residence</h3>
+				<h3>South Hero Residence</h3>
+				<h4>South Hero, VT</h4>
 				<p>
    
-   L.N. Consulting was retained to complete the HVAC design for a geothermal HVAC system.  We are also completing electrical interconnection consulting/design services.  The residence has approximately 7500 s.f. of living space.  The geothermal system is based upon a standing column well linked to multiple water to air heat pumps for living spaces and a water to water heat pump for radiant heat and domestic water heating.  The design includes a solar domestic water heating system as well.  Our design included the bathroom ventilation, energy recovery ventilation for the living spaces, and the kitchen ventilation system.  The project is currently in the construction phase.
+   HVAC design for a geothermal system and electrical interconnection consulting and design services.  The residence has approximately 7500 s.f. of living space.  The geothermal system utilizes a standing column well linked to multiple water to air heat pumps for living spaces, and a water to water heat pump for radiant heat and domestic water heating.  The design includes a solar domestic water heating system as well.  We included the bathroom ventilation, energy recovery ventilation for the living spaces, and the kitchen ventilation system.
 </p>
-				<p>South Hero, VT</p>
-				<p>Russell Waring</p>
-				<p>3T Architects</p>
-				<p>Red House Construction, Dunbar Oehmig (802) 373-0015</p>
-				<p>$ 3.0 million</p>
-				<p>To be complete 2010</p>
+				
+				<p>Architect: 3T Architects</p>
+				<p>Construction Manager: Red House Construction</p>
+				<p>Project cost: $3.0 million</p>
+				<p>Completed 2010</p>
 				<p></p>
 				
 			</div>
