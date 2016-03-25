@@ -10,16 +10,17 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 		<div class="col-md-6" >
 			<div class="well" >
 				<h3>Lawrence Barnes School Renovation</h3>
+				<h4>Burlington, VT</h4>
 				<p>
    
-   L.N. Consulting has been retained to complete the design for the renovations to a kindergarten through fourth grade school in Burlington, VT.  The scope of the project includes a complete building renovation to develop a model magnet school for sustainability and energy efficiency.  The building is approximately 29,000 sq.ft. on two levels.  Our project design development has included; natural light features to create natural light balance in almost all areas of the existing school, geothermal air conditioning, high energy efficient energy recovery ventilation systems with demand control ventilation, super efficient lighting design that includes day light controls, envelope analysis to develop a cost effective/highly efficient building skin, economizer ventilation selection, and detailed mechanical control systems to minimize energy usage through active means.
+   Our company completed the design for the renovations to a kindergarten through fourth grade school in Burlington, VT.  The scope of the project included a complete building renovation in order to develop a model magnet school for sustainability and energy efficiency.  The building is approximately 29,000 sq.ft. on two levels.  The project design included; natural light features to create natural light balance in almost all areas of the existing school, geothermal air conditioning, high energy efficient energy recovery ventilation systems with demand control ventilation, super efficient lighting design that included day light controls, envelope analysis to develop a cost effective/highly efficient building skin, economizer ventilation selection, and detailed mechanical control systems to minimize energy usage through active means.
 </p>
-				<p>Burlington, VT</p>
-				<p>Burlington School District, Chris Giard, (802) 316-0382</p>
-				<p>Colin Lindberg Architect, Colin Lindberg, (802) 864-4950</p>
-				<p>DEW Construction</p>
-				<p>$ 3.0 million</p>
-				<p>To be completed in summer 2010.</p>
+				
+				<p>Client: Burlington School District</p>
+				<p>Architect: Colin Lindberg Architects</p>
+				<p>Construction Manager: DEW Construction</p>
+				<p>Project cost: $3.0 million</p>
+				<p>Completed 2010</p>
 				<p></p>
 				
 			</div>
