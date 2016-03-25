@@ -9,7 +9,7 @@ Description: L.N. Consulting is a mechanical, electrical, and energy services en
 	<div class="row">
 		<div class="col-md-6" >
 			<div class="well" >
-				<h3>Crowe Residence</h3>
+				<h3>Shelburne Residence</h3>
 				<h4>Shelburne, VT</h4>
 				<p>
    
