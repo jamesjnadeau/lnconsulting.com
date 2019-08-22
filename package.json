@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "dev": "webpack-dev-server --progress --colors -d --host 0.0.0.0",
     "watch": "webpack --progress --colors --watch -d",
     "build": "webpack --progress --colors -p -d",
