@@ -1,6 +1,6 @@
 require('./jquery.smoothState.js');
 
-require('jquery-ui/widget');
+require('jquery-ui/ui/widget');
 
 require('isotope-layout/dist/isotope.pkgd.js');
 //this does the page transitions
@@ -43,8 +43,8 @@ $(document).ready(function() {
   //temporary fix to restyle pages with missing images
   function fix_missing_images() {
     //fix for pages with blank images
-    var test = $body.find('.img-responsive.img-rounded').attr('src');
-    if(!test) {
+    var images = $body.find('.img-responsive.img-rounded');
+    if(images.length && !images.attr('src')) {
       $('div.col-md-6').removeClass('col-md-6').addClass('col-md-12');
     }
   }

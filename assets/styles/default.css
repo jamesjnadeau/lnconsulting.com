@@ -173,8 +173,12 @@ u {
   color: white;
 }
 
-.contact-list p a .email {
-  color: LightSkyBlue;
+.contact-list a .email {
+  color: white;
+}
+
+hr.space {
+  border-top: 0;
 }
 
 
