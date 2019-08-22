@@ -1,0 +1,29 @@
+dist: trusty
+sudo: false
+language: node_js
+node_js:
+- '8'
+cache:
+  directories:
+  - node_modules
+branches:
+  only:
+  - master
+  - dev
+env:
+  global:
+  - NODE_ENV=production
+before_install:
+- openssl aes-256-cbc -K $encrypted_b14c62c7d711_key -iv $encrypted_b14c62c7d711_iv
+  -in gae-client-secret.json.enc -out gae-client-secret.json -d
+- npm install yarn -g
+- yarn install
+install:
+- yarn run build
+deploy:
+  provider: gae
+  skip_cleanup: true
+  keyfile: gae-client-secret.json
+  project: peppy-apparatus-742
+notifications:
+  slack: jamesnadeau:TrsUtVAVQXQ6p1JZ4Bf4jl7j
