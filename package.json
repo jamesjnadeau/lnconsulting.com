@@ -23,7 +23,7 @@
     "image-webpack-loader": "^1.6.2",
     "isotope-layout": "^2.2.2",
     "jade": "^1.11.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "less": "^2.5.3",
     "less-loader": "^2.2.2",
     "loader-utils": "^0.2.12",
