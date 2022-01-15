@@ -27,7 +27,7 @@
     "less": "^2.5.3",
     "less-loader": "^2.2.2",
     "loader-utils": "^0.2.12",
-    "marked": "^0.3.5",
+    "marked": "^4.0.10",
     "static-site-loader": "0.0.3",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.9",
